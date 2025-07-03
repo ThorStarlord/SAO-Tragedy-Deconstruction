@@ -1,0 +1,1 @@
+The gameplay consists of making choices as Kirito during dialogue and key plot points. The player will be presented with options that appeal to a "gamer" mindset (e.g., "Choose the most efficient path," "Analyze the data") and options that are more emotionally aware. Choosing the "gamer" options will consistently lead to negative outcomes in his relationships.

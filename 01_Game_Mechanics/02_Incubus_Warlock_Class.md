@@ -1,0 +1,3 @@
+*   **Base Class:** Weak stats, relies on debuffs and a "Mind Hex" ability to manipulate player perception and actions.
+*   **Path 1 (Tank/Support - Route A):** Kirito's choice to make the antagonist a better "support" character. The antagonist's defenses and support skills scale with the strength of his emotional bonds. This mechanically incentivizes him to become Asuna's protector and confidante.
+*   **Path 2 (DPS - Route B):** Kirito's choice to create a "glass cannon" DPS. The antagonist's damage output scales with the intensity and passion of his emotional connections. This mechanically ties the party's combat success to the affair, creating absurd, satirical scenarios.

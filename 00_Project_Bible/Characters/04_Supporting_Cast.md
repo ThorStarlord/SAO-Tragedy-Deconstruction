@@ -1,0 +1,2 @@
+*   **Suguha, Lisbeth, Sinon:** Maintain their Fujinoverse "harem" roles. They serve to show that Kirito's neglect affects his entire social circle and act as potential foils or catalysts.
+*   **No Other Canon Characters (Yui, Yuuki, Eugeo, etc.):** The cast is kept focused on the central drama. Yui exists as the quest objective (the MacGuffin), and Yuuki can be used as a symbolic memory to fuel Asuna's internal conflict.

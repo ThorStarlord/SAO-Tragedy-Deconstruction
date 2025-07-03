@@ -1,0 +1,1 @@
+The critical choice that determines the route is Kirito's decision on the Incubus Warlock's class advancement. This choice is presented as a purely tactical one, hiding its profound thematic consequences from the player until it's too late. This is the **primary branching point** of the narrative, occurring at the end of Act One.

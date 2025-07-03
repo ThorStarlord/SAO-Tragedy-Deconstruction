@@ -1,0 +1,1 @@
+**Route B (`Exaggerated_Satire`):** Will focus on absurd scenarios, over-the-top plot devices, and dark comedy. The tone will be critical and mocking of genre tropes.

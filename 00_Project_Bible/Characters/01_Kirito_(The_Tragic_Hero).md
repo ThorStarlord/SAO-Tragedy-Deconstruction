@@ -1,0 +1,2 @@
+*   **Role:** The protagonist and player surrogate.
+*   **Tragic Flaw:** "The Optimizer's Blind Spot." He defaults to logic, data, and efficiency, making him emotionally neglectful and blind to the nuances of his relationships. He is not malicious; he is tragically unqualified for the emotional challenges presented.

@@ -1,0 +1,1 @@
+**Route A (`Nuanced_Parody`):** Will focus on slow-burn psychological erosion, realistic emotional manipulation, and tragic, quiet moments of betrayal. The tone will be serious and heartbreaking.

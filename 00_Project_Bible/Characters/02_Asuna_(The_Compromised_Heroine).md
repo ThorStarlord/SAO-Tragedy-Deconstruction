@@ -1,0 +1,2 @@
+*   **Role:** The primary heroine whose fall is central to the story.
+*   **Fatal Flaw:** Her hyper-developed sense of duty and responsibility. This makes her vulnerable to manipulation and guilt, as she feels she must "manage" situations and protect others, even at great personal cost. Her choices are a direct consequence of the pressure and neglect created by Kirito.
