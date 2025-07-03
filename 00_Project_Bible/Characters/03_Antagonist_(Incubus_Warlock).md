@@ -1,3 +1,8 @@
-*   **Name:** [To Be Decided]
-*   **Alignment:** Neutral. His morality is shaped by Kirito's choices.
-*   **Motivation:** Self-interest and a desire for connection. He is an opportunist who exploits the emotional vacuum left by Kirito, not a pre-meditated evil villain.
+*   **Name:** Makoto (Real Name) / Janus (Online Alias)
+*   **Alignment:** Neutral. His morality is shaped by Kirito's choices, pushing him toward either a twisted form of "support" or overt emotional manipulation.
+*   **Personality:**
+    *   **Public Persona (Makoto - "Truth," "Sincerity"):** The face he shows the world, particularly Asuna. He appears genuinely helpful, deeply understanding, and even pathetic. He leverages his seemingly "sincere" vulnerabilities to disarm, build trust, and draw empathy. This persona is a weaponized form of emotional honesty.
+    *   **True Nature (Janus - "Duality," "Transitions"):** His online persona and true, calculating nature. As Janus, he is the god of his own small domain, opening doors for Asuna that she wouldn't otherwise walk through. He is the architect of psychological shifts and the keeper of uncomfortable truths, embodying the conflict between a public facade and private desires.
+*   **Backstory:** Once a prodigy in the arcane arts, Makoto was cast out from his order for refusing to take sides in a centuries-old conflict. He has wandered the virtual world as an outsider, surviving by his wits and charm. His neutrality is a shield against the pain of past betrayals and a way to avoid being used as a pawn. Makoto is both ambitious and deeply lonely, craving genuine connection but wary of trusting anyone fully. This makes him a perfect opportunist.
+*   **Motivation:** Self-interest and a desire for connection. He is an opportunist who exploits the emotional vacuum left by Kirito, not a pre-meditated evil villain. His core drive is to find a place where he belongs and prove his own worth, making him both a survivor and a subtle manipulator. He seeks leverage but secretly hopes for someone who sees him for who he truly is.
+*   **Role in the Narrative:** He acts as a living mirror to Kirito's emotional and logical failures. He doesn't win by force, but by outmaneuvering the protagonist emotionally, making him a challenge to Asuna's ideals and Kirito's certainty.
