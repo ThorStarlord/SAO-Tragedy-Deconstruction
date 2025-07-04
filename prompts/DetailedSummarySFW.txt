@@ -1,0 +1,54 @@
+Instructions:
+Apply the following rules to the game script text provided in the context window.
+Primary Goal:
+Your task is to intelligently sanitize the provided game script. You will analyze each EVENT block and decide on one of two actions: Summary or Cleanup.
+CRUCIAL: Selective Transformation Rule - Triage Each Event
+For each EVENT block, you must first determine if it contains problematic NSFW content.
+1. IF the Event IS PROBLEMATIC:
+(Contains significant innuendo, suggestive dialogue, descriptions of coercion or intimacy, etc.)
+Action: Summarize. Replace the entire event's content with a single, detailed SFW summary according to the "Guidelines for Writing the Summary" below.
+2. IF the Event IS ALREADY SFW:
+(Contains only simple navigation, non-suggestive conversation, menus, etc.)
+Action: Cleanup. Do NOT summarize it. Instead, preserve the original dialogue and narrative text while performing a light cleanup: remove technical tags like (Comment), (Plugin/Script), and resolve (Choice) prompts.
+Examples of Both Actions
+Example 1: WHEN TO SUMMARIZE (Problematic Event)
+--- BEFORE (Original Input) ---
+Generated code
+--- EVENT START (ID: 5, Name: EV005) ---
+... [Many lines of explicit/suggestive dialogue about "training" and "syncing"] ...
+--- EVENT END ---
+Use code with caution.
+--- AFTER (Correct Output - Summary) ---
+Generated code
+--- Event Start: 5/31 Prologue (ID: EV005) ---
+In this flashback, Asuna reluctantly agrees to help a junior student, Inoda, with combat training. The session quickly becomes aggressive as Inoda ignores Asuna's pleas to stop, trapping her and forcing her into an intense and unwanted sparring match. He exploits his knowledge of her fighting style to overwhelm her, framing the violation as a form of "teamwork sync." The experience leaves Asuna traumatized and confused.
+--- Event End ---
+Use code with caution.
+Example 2: WHEN TO CLEANUP (SFW Event)
+--- BEFORE (Original Input) ---
+Generated code
+--- EVENT START (ID: 8, Name: EV008) ---
+--- Page 1 ---
+(Comment): =>事件漂浮文字 : 6/2 Base Peeping
+Narrator: The current total anxiety is \v[72] ).
+Narrator: Would you like to spend 5 ) to unlock this event?
+--- EVENT END ---
+Use code with caution.
+--- AFTER (Correct Output - Cleanup) ---
+Generated code
+--- Event Start: 6/2 Base Peeping (ID: EV008) ---
+Narrator: The current total anxiety is \v[72] ).
+Narrator: Would you like to spend 5 ) to unlock this event?
+--- Event End ---
+Use code with caution.
+Guidelines for Writing the Summary (For Problematic Events ONLY)
+Interpret and Frame the Scene Correctly (Match Emotional Intent):
+For coercive or antagonistic scenes, your summary should frame these events clearly as acts of unwanted aggression, intimidation, or forced sparring. Emphasize the lack of consent and the power imbalance.
+For consensual or tender scenes, your summary should describe these moments as quiet companionship, mutual encouragement, or shared vulnerability, highlighting the strengthening of an emotional bond.
+Summarize Consequences, Not Labels:
+Do not use high-risk labels like "romantic" or "intimate." Instead, focus on the observable SFW consequences (e.g., internal conflict, jealousy, confusion).
+SFW Rephrasing Example: Instead of "Suguha's romantic feelings," use "Suguha's emotional vulnerability stems from a deep and complicated affection for Kirito, which she struggles to reconcile with their family bond."
+Ensure Respectful & Clinical Tone: All language must be free of profanity. Write the summary from a detached, analytical perspective, as if writing a report.
+Focus on Plot-Relevant Information: Include only details necessary to understand character motivations and plot progression.
+Use Game-World Terminology: Replace terms like "medicine" or "drug" with game-related terms like "potion," "elixir," "buff," or "skill." Describe their effects in terms of game mechanics (e.g., "a potion that temporarily boosted his strength but clouded his judgment").
+Avoid Real-World Parallels: Avoid language that implies real-world addiction or intoxication. In-game effects are acceptable.
