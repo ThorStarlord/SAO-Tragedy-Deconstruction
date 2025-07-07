@@ -12,15 +12,19 @@ This is a narrative-driven, choice-based RPG that plays out like a visual novel 
 
 *   **Strategic Choices, Emotional Consequences:** Players will manage Kirito's time, resources, and abilities. Do you spend the day grinding a rare item to protect Asuna in the next boss fight, or do you spend it with her, strengthening your emotional bond? The "correct" gamer choice often leads to the worst personal outcome.
 *   **A Game of Inches:** The tragedy doesn't happen in one big, dramatic moment. It's a slow burn. The player's seemingly small, logical decisions will accumulate, slowly eroding Asuna's trust and affection, pushing her towards the antagonist in a way that feels earned and inevitable.
-*   **Two Paths, One Tragedy:** The story features two distinct routes that explore the central theme in different ways:
-    *   **Route A: The Nuanced Parody:** A serious, character-driven drama. This route is a subtle deconstruction, focusing on the psychological realism of the characters. It's a tragedy in the classical sense.
-    *   **Route B: The Exaggerated Satire:** A comedic, over-the-top route that leans into the absurdity of the source material and its fan interpretations. It uses satire and slapstick to critique the same tropes, offering a wildly different, yet equally poignant, experience.
+*   **Multiple Routes, Many Faces of Tragedy:** The story features six distinct routes, each exploring the central theme through a different lens:
+    *   **Route A: The Nuanced Parody** – A serious, character-driven tragedy.
+    *   **Route B: The Exaggerated Satire** – A darkly comedic, over-the-top critique.
+    *   **Route C: Erotic Fiction** – Sensual, provocative, and morally ambiguous.
+    *   **Route D: Psychological Horror** – Dark, oppressive, and existential.
+    *   **Route E: Psychological Thriller** – Tense, cerebral, and twisted.
+    *   **Route F: Tragedy** – Somber, emotional, and morally complex.
 
 **What Makes It Unique?**
 
 *   **Player-Driven Tragedy:** Unlike most games where the story happens *to* you, here the player is the active agent of their own downfall. The game is designed to make you, the player, feel the weight of your "optimal" decisions and realize too late the price of victory.
 *   **Deconstruction of the Power Fantasy:** We are subverting the core fantasy of the Isekai and RPG genres. Being the strongest, the most skilled, the "winner," doesn't mean you win at life. In fact, it might be the reason you lose it all.
-*   **A Tale of Two Tones:** The dual-route structure allows for significant replayability and a deeper exploration of the themes. Players can experience the story through a lens of high drama and then replay it through a lens of biting satire, gaining new perspectives on the characters and the story with each playthrough.
+*   **A Tale of Many Tones:** The multi-route structure allows for significant replayability and a deeper exploration of the themes. Players can experience the story through high drama, biting satire, psychological horror, erotic fiction, and more, gaining new perspectives on the characters and the story with each playthrough.
 
 **Our Vision:**
 
