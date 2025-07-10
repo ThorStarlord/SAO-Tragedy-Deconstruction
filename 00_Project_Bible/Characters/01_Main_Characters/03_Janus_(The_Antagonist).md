@@ -1,3 +1,21 @@
+# Janus – The Antagonist
+
+## Role
+Overarching antagonist. The mastermind behind the events that unravel the protagonists’ lives.
+
+## Personality
+Manipulative, enigmatic, and highly intelligent. Sees people as pieces in a grand design.
+
+## Narrative Function
+- Drives the main conflict and orchestrates the NTR plot.
+- Represents the externalization of the protagonists’ internal flaws.
+
+## Key Arcs
+- Manipulates events from the shadows.
+- Ultimate confrontation with the protagonists.
+
+---
+
 *   **Name:** Makoto (Real Name) / Janus (Online Alias)
 *   **Alignment:** Neutral. His morality is shaped by Kirito's choices, pushing him toward either a twisted form of "support" or overt emotional manipulation.
 *   **Personality:**

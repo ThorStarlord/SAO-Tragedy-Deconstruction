@@ -1,3 +1,21 @@
+# Kirito (Kazuto Kirigaya) – The Tragic Hero
+
+## Role
+Protagonist. The central figure whose strengths and flaws drive the tragedy.
+
+## Personality
+Brave, loyal, and highly skilled, but emotionally distant due to his "Optimizer's Blind Spot." Sees relationships as problems to solve, not emotional bonds.
+
+## Narrative Function
+- Central victim and architect of the NTR plot.
+- His neglect and obliviousness create the dramatic irony and emotional vacuum.
+
+## Key Arcs
+- Tragic downfall due to his own strengths.
+- Struggles to reclaim what he lost.
+
+---
+
 *   **Role:** The protagonist and player surrogate.
 *   **Canon Personality:** Based on his original depiction, Kirito is generally kind-hearted but socially awkward, often preferring to act as a solo player. He is direct, sometimes to the point of being blunt, but fiercely protective of those he cares for. His confidence in his gaming abilities is immense, yet it's contrasted by a deep-seated trauma and guilt complex stemming from past failures and losses, most notably the fate of the Moonlit Black Cats guild.
 *   **The Tragic Flaw: "The Optimizer's Blind Spot"**
