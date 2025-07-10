@@ -18,3 +18,4 @@ Use this file to specify best practices, goals, and stylistic guidelines for the
 - Never skip or duplicate numbers in the sequence; maintain continuous, logical ordering.
 - Use descriptive names after the number prefix that reflect the file or folder's content and purpose.
 - For scripts and dialogue, include the route and scene in the filename for clarity (e.g., 08_Scene_2F_01_Descent.md).
+- Each route folder must contain act folders (e.g., 01_Act_One), and each act folder must contain scene files (e.g., 01_Scene_1_Description.md), following these naming conventions.
