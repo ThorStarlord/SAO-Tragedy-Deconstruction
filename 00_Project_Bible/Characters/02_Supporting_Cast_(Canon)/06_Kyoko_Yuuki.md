@@ -125,6 +125,34 @@ Kyoko serves as:
 
 ---
 
+Based on the file `SAONTRONLINEPART2_FullGameStory.txt`, here is a summary of all SFW (Safe For Work) information regarding Asuna's mother, Kyoko.
+
+### Character Identity & Role
+*   **Name:** Kyoko Yuuki. She is referred to as "Kyoko," "Mom" by Asuna, and "Auntie" by Kirito.
+*   **Position:** She is a high-ranking and powerful figure, implied to be an executive at RECT, the company where Kirito and Asuna later intern. She has the authority to arrange jobs, access confidential information, and exert significant influence.
+*   **Personality:** She is portrayed as extremely controlling, ambitious, and manipulative. She has very high expectations for Asuna and is deeply concerned with social status and appearances. She can be threatening and harsh but also pragmatic when negotiating.
+
+### Relationship with Asuna
+*   **Controlling Nature:** Kyoko dictates major aspects of Asuna's life. She arranges for Asuna to transfer to a more prestigious high school, believing her current "survivor school" is a "containment facility" that will limit her future.
+*   **Strained but Protective:** Their relationship is tense and often confrontational. Asuna accuses her mother of being unreasonable and limiting her life choices. However, Kyoko's actions, while controlling, stem from a stated desire to protect Asuna's future and happiness.
+*   **Source of Conflict:** A core conflict is Kyoko's disapproval of Asuna's relationship with Kirito and her lingering resentment over the two years Asuna "wasted" in SAO. Kyoko laments that her daughter has grown distant and blames Kirito for it.
+
+### Stance on Kirito
+*   **Extreme Disapproval:** Kyoko openly despises Kirito. She refers to him as a "useless man who is obsessed with virtual games and has no real-life accomplishments."
+*   **Probationary Conditions:** As a "compromise," she sets strict conditions for Kirito to continue dating Asuna: no weekday dating, no "impure relationships," and he must take an internship at RECT, where she expects him to fail.
+*   **Undermining the Relationship:** Her ultimate goal appears to be breaking them up, believing Kirito is not worthy of Asuna and will ruin the future she has planned for her daughter.
+
+### Relationship with Others
+*   **Inoda:** She initially sees Inoda as a "pervert" and a "fat pig" who should stay away from Asuna. She investigates his background and threatens to have him expelled to keep him away from her daughter. Their further interactions are primarily NSFW.
+*   **Shouzou (Husband):** Her relationship with her husband (Asuna's father) is strained. She considers him "useless" in dealing with family matters and reminisces about him being a stronger man in the past, implying their partnership has deteriorated.
+*   **Sugou Nobuyuki:** Asuna confronts Kyoko, reminding her that it was Kyoko who approved of Sugou, the villain from the Fairy Dance arc. Kyoko deflects blame onto Asuna's father for this poor judgment.
+
+### Key SFW Plot Points
+*   **The "Probation":** Kyoko directly confronts Kirito and lays out the strict conditions for him to continue dating Asuna, including forcing him into an internship at RECT.
+*   **Educational Reform:** Kyoko is the driving force behind getting Asuna to transfer to a more elite school, viewing her current one as inadequate.
+*   **Family Confrontations:** There are multiple scenes of arguments between Kyoko and Asuna regarding Kirito, Asuna's future, and Kyoko's controlling behavior.
+*   **Workplace Authority:** She uses her position at RECT to place Kirito in the Marketing Department, despite his preference for R&D, and arranges for Asuna to be in the Planning Department to prepare her for a leadership role.
+
 ## My Parody Version
 
 <!-- Add your unique take on Kyoko here. Use the same structure as above: Role, Personality, Narrative Function, Key Arcs & Scenes, Psychological Complexity, Function in the Parody, and Key Scenes and Themes. If your version is similar, you can reference the Fujinoverse version and note any differences. If your version is significantly different, provide a full breakdown. -->
