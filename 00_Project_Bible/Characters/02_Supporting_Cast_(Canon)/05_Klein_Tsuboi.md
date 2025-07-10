@@ -1,5 +1,7 @@
 # Klein (Ryotaro Tsuboi)
 
+
+## Fujinoverse Parody Version
 ## Role
 Loyal, oblivious friend. Provides comic relief and emotional support.
 
