@@ -366,3 +366,263 @@ The antagonists, particularly characters like Inoda, use intimacy and sexuality 
 ## Overall Summary
 
 In essence, the NSFW content involving Kirito is not for titillation but serves as a core component of the story's deconstruction. It functions as a crucible where his character is broken down to its most essential parts. These scenes explore the darkest aspects of the story's themes: the psychological cost of being a hero, the fragility of autonomy, and the ways in which trauma can be weaponized. By placing Kirito in these intensely vulnerable and compromising situations, the narrative forces a raw and unflinching look at the man behind the legend.
+
+Here is a **safe-for-work (SFW) detailed summary** of **Kirito’s role, characterization, and emotional behavior** in *SAONTRONLINEPART2*, based solely on content that avoids explicit material and instead focuses on personality, decisions, and story structure.
+
+---
+
+## 🧍‍♂️ Kirito (Kazuto Kirigaya) – SFW Character Summary
+
+**Source:** `SAONTRONLINEPART2_FullGameStory.txt`
+
+---
+
+### 🔹 Basic Profile
+
+* **Name:** Kirigaya Kazuto (Kirito)
+* **Role:** Protagonist (nominal), Asuna’s boyfriend, observer of emotional drift.
+* **Occupation:** Student, part-time FOG player and beta tester.
+* **Primary Motivation:** Protect Asuna, repair their relationship, investigate digital threats (e.g., memory corruption, FOG abuse).
+
+---
+
+### 🔹 Personality Traits
+
+| Trait                     | Evidence                                                                                       |
+| ------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Loyal & Caring**        | Regularly checks in on Asuna’s wellbeing and makes plans to spend time with her.               |
+| **Naive/Trusting**        | Avoids confronting Asuna despite noticing subtle changes in her behavior.                      |
+| **Focused on Normalcy**   | Tries to plan simple date activities, like shopping and cooking meals together.                |
+| **Emotionally Isolated**  | Often alone, ruminating, or waiting for Asuna to show up; unsure how to reestablish closeness. |
+| **Competent & Technical** | Can navigate and understand FOG systems, STL technology, and game structures.                  |
+| **Unaware of Betrayal**   | Despite surveillance data and changes in Asuna’s demeanor, he maintains faith in their bond.   |
+
+---
+
+### 🔹 Emotional Arc (SFW Framing)
+
+| Phase                      | Kirito's State                                                                                         | Key Moments                                                                 |
+| -------------------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| **1. Stability & Love**    | Deeply affectionate and physically close with Asuna. Makes romantic gestures and expresses gratitude.  | Cooking dates, cuddle scenes, internal monologues expressing love.          |
+| **2. Subtle Distance**     | Notices Asuna being distracted or tired, but chalks it up to overwork or her mother.                   | Attempts to spend more time with her. Waits for her at the base.            |
+| **3. Emotional Denial**    | Begins sensing dissonance but avoids confrontation. Believes time and kindness will restore closeness. | Reads signs like silence, fatigue, but suppresses concern.                  |
+| **4. Confusion & Concern** | Observes inconsistencies (e.g., surveillance feed, odd behavior), but rationalizes or ignores them.    | Considers the hospital diagnosis a non-issue; throws himself into quests.   |
+| **5. Blind Hope**          | Still loyal and hopeful. Plans future dates, resolves to make things right despite emotional drift.    | Concludes that he loves Asuna and that their bond is strong enough to last. |
+
+---
+
+### 🔹 Key Relationships
+
+#### 🧡 **Asuna (Yuuki Asuna)**
+
+* Kirito’s girlfriend.
+* Kirito constantly prioritizes her happiness and avoids pressuring her.
+* He misreads her emotional distance as stress or fatigue rather than relational rupture.
+
+#### 🧠 **Alice**
+
+* Collaborator in certain quests and investigations.
+* Respects her professionalism and trusts her as a mission leader.
+
+#### 🤝 **Klein**
+
+* Long-time friend and comic relief figure.
+* Often consults with Kirito or involves him in gossip/advice circles.
+
+#### 🧍‍♀️ **Suguha**
+
+* His sister.
+* Protective of Kirito. Warns others not to emotionally manipulate him.
+
+---
+
+### 🔹 Recurring Themes in Kirito’s Arc
+
+| Theme                     | Description                                                                                                |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Emotional Blind Spots** | Kirito's faith in Asuna blinds him to warning signs and subtle betrayals.                                  |
+| **Romantic Idealism**     | He frames his bond with Asuna as unbreakable, and assumes love will self-correct problems.                 |
+| **Passive Investigation** | When noticing oddities (e.g. surveillance issues, strange behavior), he checks but doesn’t act decisively. |
+| **Hope as Resistance**    | Even when clues pile up, Kirito chooses hope over suspicion. His silence protects his ideal.               |
+
+---
+
+### 🧠 Representative Quotes
+
+* *“Asuna, how about we sleep in-game tonight?”* – Romantic routine and intimacy.
+* *“She’s definitely recovered by now. She’s never seemed abnormal.”* – Kirito rationalizing troubling information from hospital notes.
+* *“Relieve sexual urges? No wonder they designed that aspect with extraordinary realism…”* – Kirito reflecting on the FOG system's intent.
+* *“I really don’t get these SM enthusiasts.”* – Encountering strange content but choosing to brush it off.
+* *“I wonder how Asuna is doing... better get back to the task at hand.”* – Putting quests ahead of emotional inquiry.
+
+---
+
+## ✅ Conclusion (SFW)
+
+Kirito in *SAONTRONLINEPART2* is portrayed as:
+
+* **Emotionally sincere** but **passively reactive**
+* Grounded in **love and loyalty**, yet **confused and unassertive** as Asuna drifts
+* A tragic figure of **romantic blindness**, who chooses not to see what would emotionally destroy him
+
+His arc offers a poignant contrast to Inoda’s manipulation and Asuna’s gradual emotional deterioration.
+
+---
+
+Would you like:
+
+* A **side-by-side emotional arc comparison** of Kirito and Inoda?
+* A rewrite of Kirito’s arc as a **psychological thriller protagonist**?
+* Or a **timeline of Kirito’s key decisions** in the story?
+
+Let me know how you’d like to expand.
+
+Here is a **detailed summary of all safe-for-work (SFW) information on Kirito’s relationships** from *SAONTRONLINEPART2*, based on in-text events, dialogue, and character interactions. These include his emotional connections, behavioral dynamics, and narrative functions in relation to other characters.
+
+---
+
+## 🧍‍♂️ Kirito’s SFW Relationship Map
+
+---
+
+### 🧡 1. **Asuna (Yuuki Asuna)**
+
+**Relationship:** Girlfriend / Emotional Anchor
+**Status:** Strained and asymmetrical
+
+**Key Details:**
+
+* Kirito remains emotionally loyal and affectionate. He regularly expresses love, gratitude, and plans romantic dates (e.g., online dinners, shopping, and sleeping in-game together).
+* Asuna begins drifting emotionally. Kirito notices her fatigue, shorter messages, and vague explanations but avoids confronting her. He attributes it to stress, her mother's interference, or overwork.
+* He stays optimistic despite mounting signs of disconnect. Even when she cancels plans or goes silent, he continues preparing gifts and outings.
+* Kirito trusts her fully, which prevents him from detecting manipulation by others (notably Inoda).
+
+**Emotional Tone:**
+
+* One-sided intimacy, with Kirito idealizing the relationship even as it frays.
+
+---
+
+### 🧠 2. **Alice**
+
+**Relationship:** Teammate / Professional Ally
+**Status:** Respectful Collaboration
+
+**Key Details:**
+
+* Alice is depicted as a competent, mission-focused partner in guild activities and combat simulations.
+* Kirito respects her judgment and trusts her in planning and execution of tactical operations.
+* There is no romantic tension or emotional confusion; their relationship is functional and trust-based.
+
+**Emotional Tone:**
+
+* Mutual professional respect with no emotional entanglement.
+
+---
+
+### 🤝 3. **Klein**
+
+**Relationship:** Longtime Friend / Comic Support
+**Status:** Casual Loyalty
+
+**Key Details:**
+
+* Klein often acts as comic relief, gossiping or teasing Kirito.
+* Offers relationship advice and occasionally hints at seeing more than Kirito realizes about Asuna.
+* While Klein's insight is limited, he provides narrative contrast to Kirito’s more serious, idealistic tone.
+
+**Emotional Tone:**
+
+* Playful camaraderie, male-bonding dynamic with occasional warnings or hints of concern.
+
+---
+
+### 🧍‍♀️ 4. **Suguha (Leafa)**
+
+**Relationship:** Sister / Moral Guardian
+**Status:** Protective, emotionally intelligent
+
+**Key Details:**
+
+* Suguha is emotionally intuitive and wary of others manipulating or emotionally draining Kirito.
+* She seems aware of subtle changes in Asuna’s behavior before Kirito does, though she doesn’t fully understand the situation.
+* Protective of Kirito’s mental health and emotional wellbeing, but does not confront him directly.
+
+**Emotional Tone:**
+
+* Watchful and loyal sibling bond with protective instincts.
+
+---
+
+### ☕ 5. **Agil (Andrew Gilbert Mills)**
+
+**Relationship:** Informant / Support Role
+**Status:** Subtle Ally (in disguise)
+
+**Key Details:**
+
+* In one sequence, Kirito investigates potential threats and receives background intelligence from a barkeeper later revealed to be Agil in disguise.
+* Agil shows concern about hidden dangers and manipulations occurring within the game and outside it.
+* Their relationship is tactical and goal-driven in this arc.
+
+**Emotional Tone:**
+
+* Covert trust and mission alignment; not deeply emotional.
+
+---
+
+### 📱 6. **Yui (AI daughter)**
+
+**Relationship:** Parental Figure / Emotional Catalyst
+**Status:** Background presence (minimal role in Part 2)
+
+**Key Details:**
+
+* Yui is mentioned occasionally as part of Kirito and Asuna’s “digital family.”
+* While her active presence is limited, she represents the emotional foundation of their shared online life.
+* In other routes or earlier arcs, she is often a symbol of their love, unity, and dreams.
+
+**Emotional Tone:**
+
+* Symbolic of innocence and the stakes of their digital life together.
+
+---
+
+### 🚫 7. **Inoda**
+
+**Relationship:** Antagonistic (Unknown to Kirito)
+**Status:** Kirito views him as a harmless acquaintance or classmate
+
+**Key Details (SFW only):**
+
+* Kirito has no clear suspicion of Inoda. He is unaware of Inoda’s interference with Asuna, and when they do interact, Kirito is polite or indifferent.
+* Inoda manipulates Kirito’s perception from afar—e.g., orchestrating situations where Kirito seems forgetful or insensitive to Asuna.
+
+**Emotional Tone:**
+
+* Kirito: Neutral, naive
+* Inoda (from external evidence): Malicious, envious, vindictive
+
+---
+
+## 🧠 Summary Chart: Kirito's Core Relationships (SFW)
+
+| Character  | Relationship Role | Kirito’s View   | Actual Dynamic      | Notes                             |
+| ---------- | ----------------- | --------------- | ------------------- | --------------------------------- |
+| **Asuna**  | Girlfriend        | Loving partner  | Emotionally distant | Idealized romance masks asymmetry |
+| **Alice**  | Ally              | Tactical equal  | Tactical equal      | Purely professional               |
+| **Klein**  | Friend            | Loyal companion | Playful observer    | Warns subtly                      |
+| **Suguha** | Sister            | Supportive      | Protective watcher  | Emotionally intelligent           |
+| **Agil**   | Informant         | Trustworthy     | Covertly helpful    | Appears in disguise               |
+| **Yui**    | Daughter figure   | Symbol of bond  | Minimal presence    | Represents lost stability         |
+| **Inoda**  | Acquaintance      | Harmless nerd   | Hidden predator     | Kirito is completely unaware      |
+
+---
+
+Would you like:
+
+* A visual **relationship map (SFW)** with emotional weightings?
+* A timeline of **Kirito’s major relationship interactions**?
+* A rewrite of these dynamics into a different route (e.g., Thriller, Tragedy, or Nuanced Parody)?
+
+Let me know how you’d like to proceed.
