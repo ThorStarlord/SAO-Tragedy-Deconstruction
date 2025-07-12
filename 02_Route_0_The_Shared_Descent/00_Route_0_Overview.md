@@ -2,9 +2,74 @@ This is a masterfully detailed and well-thought-out plan. You have not only defi
 
 Now, let's construct the three-act "Route 0" that logically and emotionally leads up to this critical choice, using all the excellent character details you've provided, while saving your major plot devices (Yui Ritual, CMRS, False Confession, Health Deterioration) for the later routes.
 
+### **Route 0: The Shared Descent (A Tragedy of Misguided Kindness)**
+
+**Central Theme:** How a series of small, well-intentioned acts of kindness can, through emotional neglect and misunderstanding, weave a perfect trap.
+
 ---
 
+### **Act One: The Invitation**
+
+*   **Calendar System Focus:** Establishing the initial timeline and the first subtle "time drains" Kirito's efficiency mindset overlooks.
+
+*   **Key Events:**
+    *   **Day 1 (e.g., 202X/05/15 - Morning):** School introduction, Makoto’s isolation, Asuna’s empathy. Asuna proposes inviting Makoto to FOG; Kirito’s “optimization” response.
+    *   **Day 1 (e.g., 202X/05/15 - Evening):** Makoto creates Janus; the unique class is discovered via Kirito's suggested ritual. Initial disappointment with the class's weak base stats.
+    *   **Day 2-3 (e.g., 202X/05/16 - 202X/05/17):** First brief group quests, basic FOG setup. Kirito and Asuna show small gestures of affection and mutual care in group scenes.
+    *   **Day 4 (e.g., 202X/05/18 - Evening):** Kirito and Asuna face a challenging boss that they cannot defeat with Kirito's usual brute-force tactics, leading to a shared setback. (Foreshadowing Janus's future importance).
+*   **End of Act One:** The trio is formed. Kirito has a new "project" to optimize. Asuna has a new person to care for. And Janus, grateful and timid, has a place where he finally feels accepted. The stage is set with a foundation of good intentions.
+
+---
+
+### **Act Two: The Unseen Bond**
+
+*   **Calendar System Focus:** Highlighting the passage of time dedicated to Makoto, especially in private or non-optimal ways, contrasting with Kirito's perception of "efficient progress." Tracking the build-up of the unseen emotional bond.
+
+*   **Key Events:**
+    *   **Week 1 (e.g., 202X/05/19 - 202X/05/25):** Training montage led by Kirito. These are efficient, fast-paced, and focused entirely on mechanics. Kirito is a great teacher, but a terrible emotional mentor. Asuna is often present but feels like a third wheel in Kirito's hyper-efficient sessions.
+    *   **Mid-Week 1 (e.g., 202X/05/22 - Late Evening):** Asuna and Janus’s first private conversation. Kirito logs off to analyze data or plan the next day. Asuna, seeing Janus is overwhelmed, stays behind to talk to him about their shared anxieties. This is a quiet, emotional bonding moment.
+    *   **End of Week 1 (e.g., 202X/05/25 - Day Time):** Another training session; Kirito’s focus on efficiency remains. Asuna and Janus deepen their bond through unspoken communication during these intense sessions.
+    *   **End of Week 1 (e.g., 202X/05/25 - Evening):** Private heart-to-heart between Kirito and Asuna about their past and hopes, reinforcing their bond for the audience. Kirito remains oblivious to the growing bond between Asuna and Janus.
+    *   **Early Week 2 (e.g., 202X/05/27 - Day Time):** Mid-level boss fight; Janus’s “Mind Hex” (debuffs/support) is key. Kirito’s brute force is useless. Asuna, using her understanding of Janus, helps him use his unique ability creatively to defeat the boss.
+    *   **Early Week 2 (e.g., 202X/05/27 - Evening):** **The Misinterpretation (The Climax of Act Two).** They win. Kirito is ecstatic. "See! I knew this class had potential! My strategy of bringing him along paid off. We just need to find the right way to optimize his skills." He sees the victory as a confirmation of his tactical genius. He completely fails to see that the victory was only possible because of the emotional bond Asuna had built with Janus. Asuna and Janus share a look. She feels a mix of pride and a strange, secret intimacy. He feels a surge of confidence. The rift between Kirito's perception and their reality is now a chasm.
+    *   **Late Week 2 (e.g., 202X/05/29 - Day Time):** Minor conflict and reconciliation between Kirito and Asuna—perhaps about how to support Janus or approach a challenge. The conflict is quickly resolved, showing their ability to communicate and support each other, reinforcing their emotional connection despite the growing undercurrent.
+
+---
+
+### **Act Three: The Path Forward**
+
+*   **Calendar System Focus:** Tracking the final short sprint to the crucial choice, emphasizing the culmination of the emotional trajectory. The date will mark the exact moment of Kirito's defining decision.
+
+*   **Key Events:**
+    *   **Week 3 (e.g., 202X/06/01 - Day Time):** A new party dynamic. Asuna and Janus now work together with an unspoken synergy that Kirito doesn't understand but encourages for its "efficiency." He feels like a successful team manager.
+    *   **Mid-Week 3 (e.g., 202X/06/03 - Day Time):** They complete a major quest, and the system announces that Janus has now reached the level required for his **Class Advancement.**
+    *   **End of Week 3 (e.g., 202X/06/04 - Evening):** **The Final Scene (The Branching Point).** The three of them stand before the Class Sanctum. A massive skill tree appears, showing the different potential paths. Kirito, in his element, steps forward with confidence. He lays out the tactical pros and cons of the paths (Pledge of the Confidante, Siren's Embrace, etc.), completely blind to the thematic and emotional horror of what he is describing. The scene ends as the player makes their choice, locking in the route for the rest of the game. Kirito, in his ultimate act of "helpful" optimization, has just personally selected the weapon of his own destruction, and he believes it is his greatest triumph as a leader.
+
+---
+
+### **Why This is Best for the Calendar System:**
+
+This integration uses the calendar not just as a display, but as a subtle narrative element. It helps to:
+
+1.  **Mark Time:** Visually show the passage of time during which the emotional changes occur, preventing the narrative from feeling too rushed.
+2.  **Highlight Routine:** The repetition of day-to-day life, with subtle shifts in interaction.
+3.  **Contrast Perception:** The simple, objective march of dates contrasts sharply with Kirito's subjective, flawed understanding of what is happening.
+4.  **Emphasize Milestones:** Key dates like the "Misinterpretation" and the "Branching Point" become even more significant when explicitly dated.
+
 ### **Route 0: The Shared Descent (A Tragedy of Misguided Kindness)**
+
+## Calendar System Integration
+
+The calendar system is a core narrative and gameplay tool in Route 0. It tracks the slow progression of relationships and emotional shifts between Kirito, Asuna, and Janus, reinforcing the theme that small, well-intentioned acts can accumulate into major consequences over time. The calendar marks the passage of days, foreshadows key events, and highlights moments of emotional neglect, growing bonds, and the build-up to the class advancement choice.
+
+**Key Functions:**
+- The current date and time are always visible to the player, providing a constant sense of progression and tension.
+- Time advances at scene transitions, after specific player choices, or when stated in dialogue, making the passage of time a visible narrative device.
+- The calendar system supports dramatic irony and player awareness by making the timeline of misunderstandings and missed connections visible, even as characters remain oblivious.
+- Visual and audio cues (color palette, music, UI) reflect the emotional beats of the story, shifting as the narrative moves from hopeful beginnings to subtle rifts and climactic choices.
+- The timing of optional scenes (such as Asuna/Janus conversations) is explicit, allowing players to influence subtle stats and future routes, enhancing agency and replayability.
+
+Writers and designers should use the calendar system to anchor all major and minor events in Route 0, ensuring that emotional and mechanical stakes are always clear and consistent. For a detailed mapping of foreshadowing and narrative flags, see `05_Foreshadowing_and_Clues.md`. For a list of key events and timestamps, see the calendar system documentation in `01_Game_Mechanics/04_Calendar_System.md`.
 
 **Central Theme:** How a series of small, well-intentioned acts of kindness can, through emotional neglect and misunderstanding, weave a perfect trap.
 
