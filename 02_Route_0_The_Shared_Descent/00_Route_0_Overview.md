@@ -10,24 +10,31 @@ Now, let's construct the three-act "Route 0" that logically and emotionally lead
 
 ---
 
+
 ### **Act One: The Invitation**
 
 *   **Inciting Incident (The Real World):** The story starts at school. We are introduced to **Makoto (Janus)**, a tall, handsome, but painfully shy and introverted classmate. Asuna, who shares a similar background of strict parenting, sees a kindred spirit in his loneliness and feels a pang of empathy. She suggests to Kirito that they should invite him to play FOG Online to help him break out of his shell.
 *   **Kirito's Flaw (The First "Optimization"):** Kirito agrees, not just out of kindness, but because he sees potential. "A new player we can mold? We can get him leveled up fast and he could be a great asset for our party. Good idea, Asuna." He immediately frames the act of friendship as a long-term party optimization strategy.
 *   **The "Gift" of the Class:** They bring Makoto into FOG. He creates his avatar, "Janus." During the tutorial or an initial quest, he is presented with a "Box of Latent Potential" that will grant him a unique rare class. Kirito, using his vast game knowledge, advises him to choose a specific ritual to open it, calculating that it has the highest probability of yielding a powerful class. The ritual works, and Janus is granted the "Incubus Warlock" class.
 *   **The Initial Disappointment:** The class, at its base level, is very weak. Its stats are poor, and its "Mind Hex" and "Debuff" skills seem useless in early-game PvE. Kirito is disappointed. "Huh, a support debuffer. Not what I was hoping for, but we'll make it work." He completely overlooks the class's true, hidden potential in psychological manipulation.
+*   **Small Gestures of Affection:** Throughout Act One, subtle moments between Kirito and Asuna (a touch, a joke, a look) show their closeness and mutual care, even in the presence of others. These reinforce their bond for the audience.
 *   **End of Act One:** The trio is formed. Kirito has a new "project" to optimize. Asuna has a new person to care for. And Janus, grateful and timid, has a place where he finally feels accepted. The stage is set with a foundation of good intentions.
 
+*   **Boss Loss (Foreshadowing Janus):** Near the end of Act One or at the start of Act Two, Kirito and Asuna face a boss that they cannot defeat. The boss is later revealed to be vulnerable to Janus's debuffs, setting up his importance and giving Kirito and Asuna a shared setback.
+
 ---
+
 
 ### **Act Two: The Unseen Bond**
 
 This act focuses on establishing the emotional rift between Kirito and Asuna, and the unintentional bonding between Asuna and Janus.
 
 *   **The Training Montage (Kirito's Way):** Kirito takes charge of power-leveling Janus. These scenes are efficient, fast-paced, and focused entirely on mechanics. Kirito is a great teacher, but a terrible emotional mentor. He constantly tells Janus *what* to do, but never asks him *how he feels*. Asuna is present, but often feels like a third wheel in Kirito's hyper-efficient training sessions.
+*   **Private Moment/Heart-to-Heart:** After a challenging day or a group setback, Kirito and Asuna share a quiet scene where they discuss their hopes, fears, or memories from SAO. This moment of vulnerability and emotional intimacy deepens their relationship and gives the audience a reason to care about their bond.
 *   **The Quiet Conversations (Asuna's Way):** After the intense training sessions, Kirito logs off to analyze data or plan the next day. Asuna, seeing that Janus is overwhelmed, stays behind to talk to him. These are the scenes where their bond forms. They talk about their strict parents, their real-world anxieties, their shared feeling of not quite fitting in. Janus, for the first time, has someone who is listening to him. Asuna, for her part, is fulfilling her "caretaker" role and finding an emotional connection that is missing from Kirito's "gamer" focus.
 *   **The First "Success":** They face a mid-level boss that is immune to physical damage but vulnerable to debuffs. Kirito's brute force is useless. He gets frustrated. Asuna, using the understanding she's built with Janus, helps him use his "Mind Hex" ability in a creative way to defeat the boss.
 *   **The Misinterpretation (The Climax of Act Two):** They win. Kirito is ecstatic. "See! I knew this class had potential! My strategy of bringing him along paid off. We just need to find the right way to optimize his skills." He sees the victory as a confirmation of his **tactical genius.** He completely fails to see that the victory was only possible because of the **emotional bond** Asuna had built with Janus. Asuna and Janus share a look. She feels a mix of pride and a strange, secret intimacy. He feels a surge of confidence. The rift between Kirito's perception and their reality is now a chasm.
+*   **Conflict and Reconciliation:** As the party dynamic shifts and stress rises, Kirito and Asuna have a minor disagreement—perhaps about how to support Janus or approach a challenge. The conflict is quickly resolved, showing their ability to communicate and support each other, and reinforcing their emotional connection.
 
 ---
 
@@ -46,21 +53,28 @@ The scene ends as the player makes their choice, locking in the route for the re
 
 ---
 
+
 ## Scene-by-Scene Breakdown
+
 
 **Act One: The Invitation**
 - School introduction, Makoto’s isolation, Asuna’s empathy.
 - Asuna proposes inviting Makoto to FOG; Kirito’s “optimization” response.
 - Makoto creates Janus; the ritual and class selection.
 - First group quest; initial disappointment with the class.
+- Small gestures of affection between Kirito and Asuna throughout group scenes.
+- Kirito and Asuna face a boss they cannot defeat (foreshadowing Janus's importance).
 - The trio bonds; end-of-act reflection.
+
 
 **Act Two: The Unseen Bond**
 - Training montage led by Kirito.
 - Asuna and Janus’s first private conversation.
 - Another training session; Kirito’s focus on efficiency.
 - Asuna and Janus deepen their bond.
+- Private heart-to-heart between Kirito and Asuna about their past and hopes.
 - Mid-level boss fight; Janus’s “Mind Hex” is key.
+- Minor conflict and reconciliation between Kirito and Asuna.
 - Kirito misinterprets the victory; Asuna and Janus share a moment.
 
 **Act Three: The Path Forward**
