@@ -1,3 +1,15 @@
+# Route 0 Integration & Narrative Role
+
+The calendar system is a core narrative and gameplay tool in Route 0: The Shared Descent. It is used to:
+
+- **Track the slow progression of relationships and emotional shifts** between Kirito, Asuna, and Janus, reinforcing the central theme that small, well-intentioned acts can accumulate into major consequences over time.
+- **Foreshadow key events and character arcs** by marking the passage of days and highlighting moments of emotional neglect, growing bonds, and the build-up to the class advancement choice.
+- **Support dramatic irony and player awareness** by making the timeline of misunderstandings and missed connections visible, even as characters remain oblivious.
+- **Visually and mechanically reinforce tension** as the story moves from the hopeful beginnings of Act One, through the subtle rifts of Act Two, to the climactic branching point in Act Three. The calendar and time cues (color palette, music, UI) should reflect these emotional beats.
+- **Enable player agency and replayability** by making the timing of optional scenes (such as Asuna/Janus conversations) explicit, allowing players to influence subtle stats and future routes.
+
+Writers and designers should use the calendar system to anchor all major and minor events in Route 0, ensuring that the emotional and mechanical stakes are always clear and consistent. For a detailed mapping of foreshadowing and narrative flags, see `05_Foreshadowing_and_Clues.md`.
+
 # Calendar System
 
 ## Purpose
