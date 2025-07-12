@@ -12,6 +12,8 @@ Use this file to specify prohibited actions, content, or styles for the LLM. Exa
 
 # Naming Conventions: What Not To Do
 
+- Do not ignore, contradict, or bypass the established calendar system in any narrative, mechanical, or documentation content. All additions and changes must respect the timeline and event structure defined by the calendar system.
+
 
 - Do not create any folder or file without a leading number prefix (e.g., 01_, 02_). All folders and files must use strict number ordering for clarity and navigation.
 - Do not skip or duplicate numbers in the ordering sequence.

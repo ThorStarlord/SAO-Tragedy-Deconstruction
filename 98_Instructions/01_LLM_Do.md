@@ -12,6 +12,8 @@ Use this file to specify best practices, goals, and stylistic guidelines for the
 
 # Naming Conventions: What To Do
 
+- Always reference, maintain, and integrate the calendar system for narrative and gameplay consistency. Ensure all events, timelines, and character arcs align with the established calendar system. When adding or modifying scenes, update the calendar documentation as needed.
+
 
 - All folders and files must begin with a leading number prefix (e.g., 01_, 02_) to enforce strict ordering and clarity.
 - Use PascalCase or underscores after the number prefix for readability (e.g., 03_Route_A_Nuanced_Parody, 01_Core_Concept.md).
