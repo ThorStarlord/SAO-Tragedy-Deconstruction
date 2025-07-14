@@ -144,6 +144,43 @@ Suguha's relationship with Kirito is the most developed aspect of her character 
 *   **Hebishima:** There are events that link Suguha with the character Hebishima, particularly early in the story. The nature of these interactions is almost entirely NSFW, but it's clear they have a complicated history that involves sexual acts and manipulation.
 *   **Sinon:** She teams up with Sinon for quests and seems to have a "frenemy" dynamic with her, engaging in both "girl talk" and verbal sparring matches over Kirito.
 
+Of course. Here is a detailed SFW (Safe For Work) chronological timeline of Suguha's (Leafa's) scenes from Part 2, presented in inverse order as requested.
+
+---
+
+### **SFW Inverse Chronological Timeline of Suguha's (Leafa's) Scenes in Part 2**
+
+This timeline details the key interactions involving Suguha from June 27th back to June 7th, 2026. Her arc in this section is defined by her growing concern for Kirito, her alliance with Sinon, and a pivotal date that reveals the depth of her feelings.
+
+#### **June 27 (Saturday) - The Alliance with Sinon**
+*   **Location:** FOG, the Underground Street.
+*   **Event:** Kirito, while investigating the underground, finds Leafa and Sinon together. It is revealed that they have formed a secret alliance.
+*   **SFW Interaction:** Leafa and Sinon discuss their plans to deal with the antagonist Hebishima. They acknowledge their rivalry for Kirito's affections but agree to cooperate for their shared mission. Leafa demonstrates a mature and strategic side, negotiating the terms of their partnership with Sinon as equals.
+*   **SFW Significance:** This scene marks a significant development for Suguha's character. She is no longer just Kirito's concerned sister but an active player with her own agency and strategic goals within the game's darker narrative. Her alliance with Sinon shows her willingness to work with rivals to protect her brother.
+
+#### **June 15 (Monday) - The "Special Sword Technique"**
+*   **Location:** FOG, a quest area.
+*   **Event:** After completing a quest with Kirito and Sinon, Leafa asks Kirito to help her practice a "special sword technique" she acquired from a questionable source.
+*   **SFW Interaction:** The technique, called "Time-Splitting Slash," has the unusual effect of temporarily disorienting Kirito, leaving him feeling dazed and physically weak but also oddly refreshed. Leafa expresses concern but also a keen interest in continuing to "practice" this strange skill with him.
+*   **SFW Significance:** This scene is ambiguous but important. It establishes that Leafa possesses abilities that can directly impact Kirito in unexpected ways. It also shows her using a mission as a pretext to create a one-on-one, intimate (though not romantic) situation with her brother, reinforcing her desire to be close to him.
+
+#### **June 12 (Friday) - The Cafe Encounter**
+*   **Location:** Real world, Agil's Cafe.
+*   **Event:** Kirito, Asuna, and Lizbeth visit the cafe where Suguha works.
+*   **SFW Interaction:** Suguha interacts politely and professionally with the group. She expresses some subtle sibling rivalry and concern when she learns that Hebishima (a coworker she dislikes) influenced the design of her revealing work uniform.
+*   **SFW Significance:** This scene re-establishes their real-world dynamic and Suguha's dislike for Hebishima, which becomes a key motivator for her actions later in the arc.
+
+#### **June 8 (Monday) - The Hospital Visit & The Hand-Holding Incident**
+*   **Location:** Real world, Kirito's apartment.
+*   **Event:** Kirito is sick at home with a high fever. Suguha visits to take care of him after being called by Asuna.
+*   **SFW Interaction:** While Kirito is semi-conscious from his illness, Suguha tends to him. In a moment of vulnerability, while helping him, a brief and awkward but intimate moment of physical contact occurs (specifically, hand-holding). Asuna and Lizbeth walk in at an inopportune time, leading to a misunderstanding that Suguha quickly has to navigate.
+*   **SFW Significance:** This is a crucial event that deeply affects Suguha. The incident, while accidental, confirms the depth of her feelings and her internal conflict. It also creates a secret between her and Kirito (since he was not fully conscious) and solidifies her resolve to protect him from what she perceives as Asuna's neglect.
+
+#### **June 7 (Sunday) - The Date and the Confession**
+*   **Location:** Real world, a park and an arcade.
+*   **Event:** Kirito and Suguha spend the day together on a "date" to reconnect after a period of distance.
+*   **SFW Interaction:** They visit a park from their childhood, reminiscing about the past. Suguha reveals her deep emotional attachment to Kirito, reminding him of his promise to always be her "hero." Later, at an arcade, he wins her a doll, a simple gesture that clearly means a lot to her.
+*   **SFW Significance:** This day is the emotional core of Suguha's arc in Part 2. It's where she expresses the depth of her feelings for Kirito, moving beyond simple sibling affection into a more complex, romantic longing. It highlights her vulnerability and her desire to repair their strained relationship, setting the stage for her more proactive, protective actions later in the story.
 
 ## My Parody Version
 

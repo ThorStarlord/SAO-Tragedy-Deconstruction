@@ -212,15 +212,7 @@ Here is a **detailed chronological timeline of Inoda’s appearances** in *SAONT
 | 4. Ownership   | Submission         | Devoted partner   | Total reprogramming |
 | 5. Escalation  | Novelty            | Mastermind        | Sadistic burnout    |
 
----
 
-Would you like this emotional arc:
-
-* Compared to **Asuna’s parallel arc** (corruption, fracture, burnout)?
-* Converted into **narrative milestones** for route-based visual novel structure?
-* Adapted into a **psychological horror script outline**?
-
-Let me know how you want to build from this.
 
 Here is a **side-by-side comparison of Inoda’s emotional arc vs. Asuna’s parallel arc** in *SAONTRONLINEPART2*, focusing on how their psychological states mirror, diverge, and entangle over the course of the story. The comparison is structured around **five shared phases**, highlighting:
 
@@ -310,13 +302,81 @@ Here is a **side-by-side comparison of Inoda’s emotional arc vs. Asuna’s par
 
 As Inoda **gains clarity and control**, Asuna **loses identity and voice**. The arcs are not symmetrical—they are **inverses**. His rise depends on her fall. His victory is her annihilation.
 
+Of course. Here is the detailed SFW (Safe For Work) chronological timeline of Inoda and Asuna's scenes from Part 2, presented in inverse order as requested.
+
 ---
 
-Would you like:
+### **SFW Chronological Timeline of Inoda and Asuna's Relationship in Part 2 (Inverse Order)**
 
-* A **visual flowchart** of their emotional progression and crossings?
-* A **triple comparison** including Kirito’s outsider arc?
-* A version of this for **Route A (Nuanced Parody)** or **Route F (Tragedy)** adaptation plans?
+This timeline details the key interactions between Asuna and Inoda from June 27th back to June 13th, 2026, focusing on the progression of their secret relationship and Inoda's manipulation.
 
-Let me know how you want to proceed.
+#### **June 27 (Saturday) - The Brothel & The "Sefure" Agreement**
+*   **Location:** FOG Underground Brothel & Hotel Room
+*   **Event:** After witnessing what she believes is Kirito engaging with a prostitute, a devastated Asuna is "comforted" by Inoda. He takes her to a hotel room where he exploits her emotional vulnerability.
+*   **Interaction:** Inoda uses Asuna's despair over Kirito to completely break down her remaining resistance. He initiates a deeply compromising and intimate encounter. During this, Asuna is coerced into agreeing to become his "sefure" (a friend with benefits) for the remainder of their real-world quarantine period.
+*   **SFW Significance:** This is the climax of this story arc. Asuna's emotional foundation is shattered, and she formally agrees to a secret, inappropriate relationship with Inoda, marking a critical turning point in her betrayal of Kirito.
+
+#### **June 21 (Sunday) - Escalation at the Base**
+*   **Location:** FOG Base
+*   **Event:** Following a difficult boss battle, Kirito leaves Asuna and Inoda alone. Inoda immediately uses the opportunity to confront Asuna about their relationship.
+*   **Interaction:** Inoda leverages Asuna's guilt and confusion from the previous days to initiate another intimate encounter. He uses a combination of feigned vulnerability and assertive demands to get what he wants.
+*   **SFW Significance:** This scene demonstrates that their encounters are becoming a regular occurrence. Asuna's resistance is nearly gone, and Inoda's control over her is solidifying.
+
+#### **June 18 (Thursday) - The "Equipment Test"**
+*   **Location:** FOG Base Living Room
+*   **Event:** Inoda creates a pretext of testing a piece of equipment to initiate inappropriate physical contact with Asuna.
+*   **Interaction:** Using the excuse of checking the functionality of an item, Inoda engages in intimate acts with Asuna. She is visibly uncomfortable but is manipulated into compliance.
+*   **SFW Significance:** This event shows Inoda's manipulative tactics becoming more creative and Asuna's inability to firmly reject him, even when the excuse is flimsy. It reinforces the power dynamic he has established.
+
+#### **June 16 (Tuesday) - The Kitchen Incident**
+*   **Location:** FOG Base Kitchen
+*   **Event:** While the group is cooking, Inoda deliberately creates a mess, forcing Asuna to use an invisibility skill on both of them to hide from Kirito and Lizbeth.
+*   **Interaction:** Trapped in close proximity and hidden from view, Inoda coerces Asuna into an intimate interaction while Kirito is just a few feet away in the same room. The tension of nearly being discovered is a key element of the scene.
+*   **SFW Significance:** This scene marks a new level of risk and deception. The act happens in the direct presence of Kirito, heightening Asuna's guilt and the intensity of the betrayal.
+
+#### **June 14 (Sunday) - The Night in the Tent**
+*   **Location:** FOG Campsite Tent
+*   **Event:** During the group camping trip, Kirito stands guard for the first half of the night. Inoda uses this time to enter Asuna's tent, claiming he is scared and needs comfort.
+*   **Interaction:** Asuna and Inoda spend the entire night together in a prolonged and deeply compromising encounter. Asuna justifies her actions to herself by viewing it as "just a game" and a way to soothe Inoda's supposed fragility.
+*   **SFW Significance:** This is the first major, planned intimate encounter between them, moving beyond a brief, coerced moment. It solidifies their secret relationship and represents a profound breach of Kirito's trust.
+
+#### **June 13 (Saturday) - The Camping Trip Bet**
+*   **Location:** FOG Campsite
+*   **Event:** The group embarks on a camping trip in FOG. Lizbeth manipulates the team assignments, ensuring Asuna is paired with Inoda.
+*   **Interaction:** To create a pretext for a future demand, Inoda challenges Asuna to a bet on who can set up their tent faster. He wins, securing the right to make a "request" of her at a later time.
+*   **SFW Significance:** This is the catalyst for the events of the following days. It establishes a narrative tool for Inoda to leverage, creating a sense of obligation that he will exploit to initiate their first major inappropriate encounter.
+
+Of course. Here is the elaboration on the June 21st event, structured for an LLM as requested.
+
+### **Elaboration on the June 21st Event: "Escalation at the Base"**
+
+This event is pivotal as it marks a significant escalation in Asuna's secret relationship with Inoda. The direct prelude to this scene is located in **Map316.json, Event ID 1**.
+
+#### **Detailed Breakdown of the Scene**
+
+**1. The Precursor Event (The Orc Chief Battle)**
+
+*   **Location:** FOG, a dungeon mine. (Map316.json)
+*   **What Happens:** The party (Kirito, Asuna, Lizbeth, and Inoda) confronts a mini-boss, the **Orc Chief**. During the battle, Asuna accidentally "kills" Inoda in-game while trying to cast a defensive spell. This is a critical moment because it removes her primary support role from the fight and leaves her feeling guilty and responsible for his "defeat." Kirito, focused on the battle, doesn't fully grasp the emotional impact this has on Asuna. After defeating the boss, the group's next objective is to rescue Lizbeth, who is trapped elsewhere in the dungeon.
+
+**2. The Opportunity (Kirito Leaves)**
+
+*   **The Setup:** Following the difficult fight, Asuna is visibly shaken and emotionally drained. She is worried about Lizbeth and burdened by her mistake with Inoda. Kirito, pragmatic as ever, decides to proceed immediately to rescue Lizbeth.
+*   **The Separation:** Kirito, believing Asuna needs rest, instructs her to stay behind with Inoda (who has since respawned) while he goes on ahead. This decision, while logical from a mission standpoint, leaves an emotionally vulnerable Asuna alone with her manipulator.
+
+**3. The Interaction (Inoda's Consolidation of Control)**
+
+*   **Leveraging Guilt:** The core of the interaction happens "off-screen" from Kirito's perspective but is revealed later through flashbacks. Inoda immediately capitalizes on the situation. He leverages Asuna's guilt over "killing" him and her anxiety about the mission. He frames himself as the only one who understands her and is there to comfort her when Kirito has "abandoned" her for the next task.
+*   **Feigned Vulnerability:** He plays the victim, expressing how scared and hurt he was by the battle, making Asuna feel a deep sense of responsibility to console him. This transforms her guilt into a need to cater to his emotional (and physical) demands.
+*   **The Intimate Encounter:** Under the guise of "comforting" each other and "relieving the stress" of the battle, Inoda initiates another intimate encounter. Asuna's resistance is minimal. She rationalizes her participation as a necessary act of care for her "traumatized" junior and a way to cope with her own feelings of failure and loneliness.
+
+#### **SFW Elaboration on the Significance**
+
+This scene is critical because it demonstrates that the dynamic between Asuna and Inoda has become a **destructive, cyclical pattern**.
+
+1.  **Normalization of the Affair:** Their secret encounters are no longer shocking, one-off events forced by extreme circumstances. It has become Inoda's default method for exploiting Asuna's emotional state, and her default coping mechanism for dealing with guilt and stress. The ease with which this encounter happens shows it is becoming a regular occurrence.
+
+2.  **Solidification of Inoda's Control:** Inoda proves he no longer needs elaborate setups or drugs to manipulate Asuna. He can now effectively leverage her own internal conflicts—her guilt, her sense of responsibility, and her feelings of being misunderstood by Kirito—to get what he wants. Her resistance has eroded to the point where she is a willing, albeit conflicted, participant.
+
+3.  **Deepening of Asuna's Isolation:** By choosing to stay and comfort Inoda instead of immediately trying to reconnect with Kirito, Asuna makes a subconscious choice that deepens her emotional isolation. She is actively hiding a significant part of her inner life from her partner, making any genuine communication between them nearly impossible. This cements the foundation of secrecy that will continue to corrode their relationship.
 
