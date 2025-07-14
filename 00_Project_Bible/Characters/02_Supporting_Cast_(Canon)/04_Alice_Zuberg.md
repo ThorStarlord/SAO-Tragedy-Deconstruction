@@ -118,3 +118,124 @@ This is the most critical SFW element of her arc, explaining her otherwise contr
 *   **Relationship with Kirito:** She views Kirito as a highly capable and trustworthy operative. She respects his skills and recruits him as the key "field agent" for their most critical operations, such as infiltrating the brothel to copy data (Map061, EV011 & Map313, EV002).
 
 In summary, Alice's SFW narrative is that of a dedicated police officer who becomes a tragic hero in her own right. She is a victim of profound psychological manipulation by her corrupt superior, forcing her to endure extreme situations under the belief that it is all for the greater good of her mission.
+
+Of course. Here is a detailed SFW (Safe For Work) chronological timeline of Alice's scenes from Part 2, presented in inverse order as requested.
+
+---
+
+### **SFW Inverse Chronological Timeline of Alice's Scenes in Part 2**
+
+This timeline details Alice's key actions from June 27th back to June 6th, 2026. Her arc is defined by her deep undercover mission into a criminal organization, forcing her to navigate morally compromising situations while trying to maintain her integrity as a police officer.
+
+#### **June 27 (Saturday) - The Brothel Mission & The Aftermath**
+*   **Location:** FOG Underground Brothel
+*   **Event:** This is the climactic mission of the arc. Alice, disguised as a prostitute named "Ariel," must infiltrate the brothel owner's office to retrieve critical data.
+*   **SFW Interaction:** Alice is forced to participate in a "prostitute grading exam" by the brothel owner and a man known as the "Prostitute Instructor" (Fukushi). To maintain her cover and complete her mission, she endures intense psychological manipulation and humiliation, all while pretending to be a willing participant. The scene is framed as a deeply compromising test of her resolve and acting skills. After Kirito successfully obtains the data, she and the team retreat to their base.
+*   **SFW Significance:** This is the most dangerous and demanding part of her mission. It showcases her immense mental fortitude and dedication, as she must endure degrading situations to achieve her objective. The event leaves her emotionally shaken but successful in retrieving the necessary intel.
+
+#### **June 20 (Saturday) - The "Practice Session" in the Fitting Room**
+*   **Location:** FOG Base, Fitting Room
+*   **Event:** Alice is "training" with her instructor, Fukushi, in preparation for her undercover roles.
+*   **SFW Interaction:** Fukushi has her practice "seductive dialogue" and poses while wearing revealing outfits. He uses psychological manipulation to break down her inhibitions, framing it as necessary training to make her a more convincing prostitute for her mission. The session is mentally taxing and designed to blur her personal boundaries.
+*   **SFW Significance:** This scene establishes the nature of Fukushi's "training," which is more about psychological conditioning than practical skill. It shows how Alice is being systematically pushed into a role that conflicts with her identity as a police officer, all under the justification of the mission.
+
+#### **June 16 (Tuesday) - The "Intensive Training"**
+*   **Location:** Real-world apartment
+*   **Event:** Alice undergoes another "training" session with Fukushi and her junior officer, Ann.
+*   **SFW Interaction:** The training involves role-playing and drills designed to desensitize her to embarrassing and compromising situations. It is framed as a necessary exercise to build her mental resilience for the dangers of her undercover work. The session leaves her feeling conflicted and emotionally drained.
+*   **SFW Significance:** This scene highlights the extreme psychological pressure Alice is under. The "training" methods are questionable, showing that her superiors are pushing her to her absolute limits for the sake of the mission's success.
+
+#### **June 12 (Friday) - The Prostitute Grading Exam**
+*   **Location:** FOG Underground Brothel
+*   **Event:** While infiltrating the brothel, Alice is forced to take a "grading test" to prove her skills as a prostitute to the brothel owner.
+*   **SFW Interaction:** The "test" is an interrogation designed to assess her composure and willingness to comply. She is subjected to humiliating questions and commands while under the effects of a "hypnotic incense." She must use her police training to resist the full effects and maintain her cover without revealing her true identity.
+*   **SFW Significance:** This is Alice's first major trial undercover. It demonstrates the dangerous and degrading nature of her mission and establishes the immense psychological strength required for her to succeed.
+
+#### **June 11 (Thursday) - Confession and Investigation**
+*   **Location:** Real-world police station
+*   **Event:** Alice interrogates a criminal who has surrendered. The criminal, Fukushi, provides her with crucial intelligence about the organization she is investigating.
+*   **SFW Interaction:** The interrogation is a tense battle of wits. Fukushi attempts to manipulate Alice psychologically, but she uses her training to remain professional and extract the necessary information.
+*   **SFW Significance:** This scene introduces Fukushi as a key informant and establishes the central investigation that will drive Alice's actions for the rest of the arc. It sets the stage for their complex and dangerous instructor-student relationship.
+
+#### **June 6 (Saturday) - The Car Tryst & Security Check**
+*   **Location:** Real-world parking lot & FOG Underground entrance
+*   **Event:** Alice is seen in a car with a "client" as part of her undercover surveillance. Later, upon entering the FOG underground, she is subjected to an invasive and humiliating "security check" by a corrupt gatekeeper.
+*   **SFW Interaction:** The security check is a form of harassment disguised as procedure. Alice is forced to endure it to maintain her cover and gain entry. Her partner, Klein, tries to intervene but is largely ineffective.
+*   **SFW Significance:** This event serves as an early introduction to the corrupt and dangerous environment of the FOG underground. It establishes the high personal stakes of Alice's mission and the degrading treatment she must endure to gather intelligence.
+
+Here is an **NSFW chronological timeline (inverse order)** of **Alice’s scenes in Part 2** of the Fujino parody, based on the file `SAONTRONLINEPART2_FullGameStory.txt`.
+
+---
+
+### 🔻 Reverse Chronological NSFW Timeline — Alice (Part 2)
+
+#### 1. **Brothel Oral Scene with Shadow Fox (Alice undercover as prostitute)**
+
+* Alice agrees to perform oral sex under the guise of a professional training scenario.
+* Shows physical revulsion but psychological endurance ("I have to endure it for the mission").
+* She becomes more skilled, eventually earning praise and commanding control.
+* Highly humiliating but framed as a necessary sacrifice for infiltration.
+* Ends with Alice mentally declaring she will “suck him dry!” as revenge.
+
+
+---
+
+#### 2. **Gatekeeper Scene – Hypnosis Resistance and Forced Suggestion**
+
+* Alice resists sexual coercion under the influence of a sedative item.
+* Despite hypnotic triggers, she maintains her identity and mission objectives.
+* The guard is frustrated that hypnosis fails completely on Alice, indicating unusual mental fortitude.
+* Alice says she’s a police officer (A24) and refuses to “sell herself.”
+* Implication of future training potential due to her strong will.
+
+
+---
+
+#### 3. **Hypnosis Side Effects & Blowjob for Fukushi**
+
+* Alice claims she won’t lose her virginity to anyone but her boyfriend (Klein).
+* However, due to hypnosis training, she experiences physiological arousal and involuntary associations.
+* Fukushi coaxes her into giving oral again to “reinforce the training.”
+* Alice is clearly disturbed but complies, trying to maintain boundaries.
+
+
+---
+
+#### 4. **Livestream Scene – Klein Witnesses Alice with Fukushi**
+
+* Klein sees Alice riding Fukushi on a security camera.
+* Alice has apparently lost her virginity during “training.”
+* She is emotionally disconnected and speaks of it as a “drill experience.”
+* Fukushi mocks Klein and Alice while degrading them both.
+* The most emotionally devastating scene for Klein (and the reader).
+
+
+---
+
+#### 5. **“You turned me on” Scene — Refusal followed by Hypnotic Regression**
+
+* Alice is harassed by Fukushi about how her “big butt” turns him on.
+* She tries to refuse but is hypnotically triggered into arousal and mechanical responses.
+* Fukushi attempts intercourse again, Alice tries to hold her limits, asks for condoms.
+* Ends in unclear consent, suggesting training degradation.
+
+
+---
+
+#### 6. **Gatekeeper Breast Inspection and Fantasy Suggestion**
+
+* Alice undergoes a “security check” involving breast groping and humiliating comments.
+* She plays along, maintaining her undercover persona, even implying she had an orgasm to “respect the role.”
+* Dialogue escalates into suggestive talk about having his baby, clearly as a coping mechanism to keep control.
+
+
+---
+
+#### 7. **Brothel Infiltration Plan Setup**
+
+* Alice proposes acting as a prostitute with Klein for distraction during mission.
+* Shows early indications of willingness to degrade herself for tactical advantage.
+* Scene sets up her entry into brothel and the Shadow Fox route.
+
+
+

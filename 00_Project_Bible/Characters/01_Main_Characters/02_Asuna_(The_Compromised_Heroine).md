@@ -409,11 +409,341 @@ This is no longer ambiguous seduction—it is:
 * A **weaponization of Asuna’s emotional integrity and physiological vulnerability**.
 * A portrayal of **NTR that crosses into mind control and sexual slavery**, consistent with **dark corruption fetish tropes**.
 
+Here is a **reverse chronological timeline** of NSFW scenes involving **Asuna** in *SAONTRONLINE Part 2*, based on the full script file:
+
 ---
 
-Would you like:
+### 🔻 Most Recent to Oldest NSFW Scenes – Asuna (Part 2)
 
-* A **multi-perspective rewrite** of one of these scenes (e.g., Asuna’s perspective vs. Inoda’s)?
-* A **narrative shift** of this arc into psychological horror, emphasizing internal fragmentation?
-* A **parody or subversion version** where Inoda’s schemes are exposed and dismantled?
+#### ✅ 1. **Memory Simulation (Danac Plaza)** – *Map388/389*
+
+* **Scene Type:** Hidden intercourse during reenactment
+* **Partner:** Inoda (in stealth mode)
+* **Context:** While Asuna and Kirito are reenacting old memories to restore Yui’s data, Inoda exploits a system loophole (stealth mode) to physically pleasure Asuna unnoticed.
+* **Key Tags:** Public memory reenactment, stealth touch, emotional confusion, partial consent
+* **NSFW Themes:** Dual reality, psychological conflict between memory and present pleasure
+
+---
+
+#### ✅ 2. **Weekly Secret Sex Pact** – *MapXXX*
+
+* **Scene Type:** Afterglow confession
+* **Partner:** Inoda
+* **Context:** Asuna calls Inoda "husband" and agrees to secretly meet for sex weekly, hiding it from Kirito.
+* **Key Tags:** Married language, NTR pact, emotional corruption
+* **NSFW Themes:** Emotional betrayal, erotic submission
+
+---
+
+#### ✅ 3. **Blowjob + Illusion Toy Sync** – *MapXXX*
+
+* **Scene Type:** Simultaneous oral and toy-induced sensation sync
+* **Partner:** Inoda
+* **Context:** Asuna gives oral while Inoda uses an illusion tool that links sensations between mouth and genitals.
+* **Key Tags:** Manual-Oral Synergy perk activation, dual pleasure casting
+* **NSFW Themes:** Device-enhanced pleasure, willing performance
+
+---
+
+#### ✅ 4. **Flashback to First Intercourse (Sow Claim)** – *MapXXX*
+
+* **Scene Type:** Inoda recalling taking Asuna's virginity
+* **Partner:** Inoda
+* **Context:** Asuna is deeply embarrassed and shocked as Inoda reminds her he’s the first to go “that deep.”
+* **Key Tags:** Virginity claim, psychological collapse, denial breaking
+* **NSFW Themes:** Loss of virginity, forceful emotional overwrite
+
+---
+
+#### ✅ 5. **Group Scene (Voyeur Risk)** – *MapXXX*
+
+* **Scene Type:** Sex while Kirito is nearby or calling
+* **Partner:** Inoda
+* **Context:** Asuna tries to answer Kirito while Inoda continues intercourse, creating strong NTR tension.
+* **Key Tags:** Risk of discovery, cuckold thrill
+* **NSFW Themes:** Degradation, dual emotional allegiance, thrill of betrayal
+
+---
+
+#### ✅ 6. **Punishment Roleplay with Lisbeth** – *MapXXX*
+
+* **Scene Type:** Female-female humiliation and domination
+* **Partner:** Lisbeth
+* **Context:** Liz teases Asuna about her breasts, humiliates her with oral stimulation, and accuses her of enjoying it.
+* **Key Tags:** Girl-on-girl, teasing, sadomasochism
+* **NSFW Themes:** Female rivalry, humiliation play, submissive confession
+
+---
+
+### 📝 Notes:
+
+* The most *emotionally impactful scenes* occur near the end, where **Asuna refers to herself as a “wife”** and **asks to be with Inoda forever**, confirming deep corruption.
+* Lisbeth’s scene, though non-penetrative, is important for escalating Asuna's **emotional vulnerability** and **repression-release motif**.
+* Multiple scenes contain **illusion-based syncing tech**, allowing unconventional erotic experiences (e.g., blowjobs syncing with genital sensations).
+
+Of course. Here is a detailed NSFW (Not Safe For Work) chronological summary of Asuna's scenes from Part 2, presented in inverse order as requested.
+
+**Warning:** The following content is NSFW and contains explicit themes and descriptions based on the provided game story files.
+
+---
+
+### **NSFW Inverse Chronological Timeline of Asuna's Scenes in Part 2**
+
+This timeline details Asuna's key NSFW interactions from June 27th back to June 13th, 2026. Her arc is a steady descent into depravity, marked by escalating sexual acts with Inoda, increasing emotional distance from Kirito, and a growing internal conflict between guilt and desire.
+
+#### **June 27 (Saturday) - The Brothel and the "Sefure" Agreement**
+*   **Location:** FOG Underground Brothel & Hotel Room
+*   **Event:** This is the culmination of the arc. After witnessing Kirito with another woman (a misunderstanding orchestrated by Inoda and Lizbeth), a distraught Asuna is taken to a hotel room by Inoda.
+*   **NSFW Interaction:** Inoda exploits her emotional devastation to initiate their most intense sexual encounter yet. He uses a combination of crude verbal humiliation and aggressive physical intimacy to completely break her spirit. Overwhelmed by despair and lust, Asuna tearfully agrees to become his "sefure" (a friend with benefits/sex slave) for the duration of her real-world quarantine, solidifying their illicit arrangement.
+*   **NSFW Significance:** This is a point of no return for Asuna. She consciously chooses to embrace the affair, abandoning her fight against her desires. The "sefure" agreement formalizes her betrayal and sets a new, darker tone for her relationship with both Inoda and Kirito.
+
+#### **June 22 (Monday) - The Bedroom Confession**
+*   **Location:** Real world, Asuna's apartment bedroom
+*   **Event:** Asuna, feeling lonely while Kirito is hospitalized, gets a visit from Inoda.
+*   **NSFW Interaction:** Inoda initiates a sexual encounter. During the act, he manipulates her into confessing that she finds him more satisfying than Kirito. She admits that their sexual compatibility is a primary reason for her continued engagement with him. The scene is intimate and filled with guilty pleasure.
+*   **NSFW Significance:** Asuna verbally admits for the first time that her relationship with Inoda is not just about stress relief but about superior sexual satisfaction. It's a critical admission that signals her emotional priorities are shifting away from Kirito.
+
+#### **June 21 (Sunday) - Post-Battle Exploitation**
+*   **Location:** FOG, a secluded corner of a dungeon
+*   **Event:** After a difficult boss fight where she accidentally "kills" Inoda in-game, Asuna is left alone with him while Kirito proceeds with the mission.
+*   **NSFW Interaction:** Inoda leverages Asuna's guilt and emotional vulnerability to coerce her into another sexual encounter. He frames it as a way for her to "comfort" him after the "trauma" of the battle. Her resistance is minimal, showing that this has become a normalized part of their dynamic.
+*   **NSFW Significance:** This scene proves that their sexual encounters are now a recurring pattern. Inoda no longer needs elaborate schemes; he can simply exploit any moment of weakness or emotional turmoil to get what he wants.
+
+#### **June 18 (Thursday) - "Armpit Fragrance" in the Living Room**
+*   **Location:** FOG Base, Living Room
+*   **Event:** Inoda creates an excuse to get close to Asuna while Kirito is busy. The scene is referred to as "Armpit Fragrance" in the files.
+*   **NSFW Interaction:** Under the pretense of a "game," Inoda engages in *腋交* (Axillary Intercourse / Armpit Sex) with Asuna. This is a very specific and unusual fetish act, indicating that their sexual experimentation is becoming more diverse and transgressive.
+*   **NSFW Significance:** The introduction of a specific fetish act shows that their relationship is moving beyond simple intercourse into more varied and kinky territory. It highlights Asuna's increasing sexual exploration and her willingness to indulge Inoda's desires.
+
+#### **June 16 (Tuesday) - The Messy Kitchen Affair**
+*   **Location:** FOG Base, Kitchen
+*   **Event:** While cooking with the group, Inoda deliberately creates a situation where he and Asuna must use an invisibility skill to hide from Kirito and Lizbeth.
+*   **NSFW Interaction:** Trapped together in stealth, Inoda initiates sex with Asuna. The act takes place just feet away from an oblivious Kirito. The thrill and shame of the near-discovery are central to the scene's psychological impact on Asuna.
+*   **NSFW Significance:** This is a major escalation in audacity and risk. Having sex while her boyfriend is in the same room represents a profound level of betrayal and a complete disregard for the potential consequences.
+
+#### **June 14 (Sunday) - A Sleepless Night in the Tent**
+*   **Location:** FOG Campsite Tent
+*   **Event:** During the group camping trip, while Kirito is on guard duty, Inoda joins Asuna in her tent for the entire night.
+*   **NSFW Interaction:** They engage in a prolonged sexual encounter. Asuna masturbates while fantasizing about being "violated" by Inoda, who then enters her tent and makes her fantasy a reality. The dialogue indicates that they had sex multiple times throughout the night.
+*   **NSFW Significance:** This is their first planned, extended sexual encounter. It moves beyond a brief, coerced act into a full-blown affair. Asuna's fantasies reveal that she is beginning to desire and even romanticize her non-consensual experiences with Inoda.
+
+#### **June 13 (Saturday) - The Blowjob in the Woods**
+*   **Location:** FOG, the woods near the campsite
+*   **Event:** After winning a bet, Inoda attempts to "cash in" his reward from Asuna.
+*   **NSFW Interaction:** He pressures her for sex, but she refuses, citing their "once a week" agreement (a rule she seems to have misremembered, as she previously insisted on once a month). As a "compromise," she agrees to give him a blowjob. The act is interrupted by Kirito's unexpected return.
+*   **NSFW Significance:** This is the first time Asuna offers a sexual act as a compromise, showing a shift in her mindset. The fact that she is willing to perform oral sex to avoid intercourse indicates a new level of negotiation within their illicit relationship. It also highlights her poor memory regarding their "rules," suggesting her subconscious is becoming more permissive.
+
+Here is the **inverse chronological NSFW timeline of Asuna scenes specifically within memory alteration and memory fragment events** in *SAONTRONLINE Part 2*:
+
+---
+
+### 🔻 **Most Recent to Earliest (Memory Alteration & Fragments Only)**
+
+---
+
+#### ✅ **1. Fragment Reenactment Near Completion: Asuna Fully Compromised**
+
+* **Asuna and Inoda engage in NSFW activity under the guise of "memory synchronization"**
+* Asuna refers to Inoda as “husband” and declares love for him while in simulation.
+* She believes she is “reliving” memories but blurs reality and simulation.
+* **Emotional inversion** occurs: love declarations meant for Kirito are now addressed to Inoda.
+
+---
+
+#### ✅ **2. Scene During Kirito’s Sleep: Asuna Misleads Kirito While Inoda Acts**
+
+* Kirito is asleep in memory simulation; Asuna is engaging with Inoda while improvising lines.
+* Dialogue mirrors her original romance with Kirito—now performed with Inoda.
+* Kirito wakes mid-playback and believes he walked in mid-reenactment.
+* Asuna gaslights him into thinking everything is part of memory repair.
+
+---
+
+#### ✅ **3. Scene of Sync Failure and Emergency Recovery**
+
+* Inoda pressures Asuna into NSFW activity during an unstable synchronization moment.
+* Asuna initially resists to protect Yui’s data restoration.
+* Argument causes **system desync**; Asuna has to “stabilize” by emotionally and sexually placating Inoda.
+* This scene shows **coerced consent through simulation blackmail**.
+
+---
+
+#### ✅ **4. Scene Where Asuna Initiates “Memory Reenactment” But Inoda Hijacks the Event**
+
+* Asuna plans a scripted reenactment to preserve memory accuracy.
+* Inoda refuses to follow the script, insists on improvisation, and mocks the idea of “lines.”
+* Asuna, partially persuaded by emotional thrill, reluctantly agrees to continue unscripted.
+* This moment shows **Asuna's shifting values—fidelity to truth compromised by psychological pressure**.
+
+---
+
+#### ✅ **5. Setup for Reenactment: Asuna Becomes the Memory Host**
+
+* Asuna volunteers to be the host for the CMRS (Cognitive Memory Restoration System) to protect Yui.
+* Scene sets up her vulnerability and the premise for her memories being altered, exploited, or corrupted by intrusion (i.e., Inoda’s insertion into simulations).
+* Emotional tone is sincere and noble, highlighting **tragic irony** as it enables future degradation.
+
+---
+
+#### ✅ **6. First CMRS Scene – Tolbana Memory Fragment**
+
+* Reenactment of the scene where Asuna first meets Kirito in Tolbana.
+* Asuna notes that some details don’t align with her recollection.
+* This discrepancy hints at the **beginning of false memories** being sown or real ones rewritten.
+
+---
+
+### 🔚 **Summary of Themes Across the Timeline**
+
+* **Psychological erosion**: Asuna’s mental boundaries collapse due to simulation immersion and emotional pressure.
+* **Memory confusion**: She can no longer distinguish reenactment from reality.
+* **Erotic reprogramming**: Emotional and sexual loyalty to Kirito is overwritten or blended with Inoda via false memory feedback loops.
+* **Simulation as manipulation**: Every CMRS reenactment subtly corrupts Asuna’s sense of self and history.
+
+Let me know if you want a **visual flowchart**, **character impact map**, or how this ties into Ending A/B.
+
+Of course. Here is a detailed SFW (Safe For Work) chronological summary of Asuna's scenes involving memory alteration and reenactment from Part 2, presented in inverse order as requested.
+
+---
+
+### **SFW Inverse Chronological Timeline: Asuna's Memory Reenactment Arc**
+
+This timeline details the sequence of events within the **Cognitive Memory Restoration System (CMRS)**, a process initiated to repair the corrupted data of their AI daughter, Yui. The memories are drawn from Asuna's consciousness, and the reenactments reveal the deep psychological impact of her recent experiences.
+
+#### **4. The Final Reenactment: Finding Yui in the Forest**
+*   **Memory Date:** October 30th, 2024
+*   **Location:** FOG, a forest on the 22nd floor of Aincrad (Memory Simulation).
+*   **Event:** Kirito and Asuna reenact the day they discovered the unconscious Yui.
+*   **SFW Interaction:** The reenactment proceeds according to the original memory until the climax. When the simulated Yui awakens, she looks at Asuna and calls her "Mama." However, instead of turning to Kirito, she looks past him to an intrusive memory fragment of **Inoda** and calls him "Papa."
+*   **SFW Significance:** This is the devastating reveal and the culmination of the memory arc. The system, in its attempt to repair Yui's corrupted "parent" data, pulls from the most dominant emotional imprints in Asuna's memory. It identifies Inoda, not Kirito, as the primary father figure. This provides concrete, undeniable evidence of the profound shift in Asuna's subconscious affections, confirming that her secret relationship has fundamentally altered her perception of her family unit. The memory simulation ends here, leaving this critical issue unresolved.
+
+#### **3. The Second Reenactment: The First Night Together**
+*   **Memory Date:** October 24th, 2024
+*   **Location:** FOG, the log cabin on the 22nd floor (Memory Simulation).
+*   **Event:** Kirito and Asuna are required to reenact the memory of their first night of intimacy.
+*   **SFW Interaction:** The scene is portrayed as a tender and loving moment. However, a critical deviation occurs: Kirito's simulated character is unable to perform as he did in the original memory, reflecting Asuna's subconscious comparison of him to Inoda. Asuna, playing her part, must comfort and reassure him. The system registers the emotional core of the memory as intact despite the physical discrepancy, allowing the process to continue.
+*   **SFW Significance:** This scene is a powerful externalization of Asuna's internal conflict. Her memories now cast Kirito in a less capable light, subconsciously tainted by her more intense experiences with Inoda. This shows that the affair is not just a physical act but is actively rewriting her perception of her core memories with Kirito.
+
+#### **2. The First Reenactment: Investigating the Safe Zone Incident**
+*   **Memory Date:** April 11th, 2024
+*   **Location:** FOG, The Hill of the Cross (Memory Simulation).
+*   **Event:** The first major memory reconstruction requires them to reenact their investigation into the in-game murder in a safe zone, a foundational moment in their partnership.
+*   **SFW Interaction:** This reenactment proceeds almost perfectly. Asuna's memory of their teamwork and mutual trust is strong and clear. They flawlessly recite their old dialogue and follow their past actions. The system's synchronization rate remains high, indicating this part of her memory is uncorrupted.
+*   **SFW Significance:** This serves as a crucial baseline. It establishes that Asuna's foundational memories of Kirito as a hero and a reliable partner are pure. This makes the corruption of their more intimate, later memories all the more stark and significant.
+
+#### **1. Initiating the Memory Restoration**
+*   **Location:** FOG, Kirito and Asuna's Base.
+*   **Event:** After Yui's "birth," her system malfunctions due to corrupted data regarding her parental figures. Kirito discovers the CMRS, a module that can repair the data by having a "host" reenact key memories.
+*   **SFW Interaction:** Asuna volunteers to be the memory host. She argues that since the data corruption stems from memories involving Kirito, using him as the host could cause further system conflicts. Kirito reluctantly agrees. Asuna connects to the system, and her key memories with Kirito—from their first meeting to finding Yui—are selected for reenactment.
+*   **SFW Significance:** Asuna's decision to be the host, while seemingly noble, is the critical choice that sets the entire arc in motion. It means that her corrupted, guilt-ridden, and confused memories will form the basis for Yui's repair, inevitably leading to a flawed and painful outcome.
+
+Here is a **NSFW detailed summary** of the **bedroom scandal between Asuna and Inoda** in the final update, based on `Map387_extracted.txt`. The scene unfolds across **multiple perspective fragments**, moving between Kirito’s unaware POV and Asuna’s full submission, and concludes the arc with **complete psychological and sexual domination**.
+
+---
+
+## 🔻 Final Bedroom Scandal Summary (NSFW)
+
+---
+
+### 🛌 **Scene Context & Setup**
+
+* **Kirito’s POV** begins with him drowsy and expressing affection for Asuna, completely unaware of the deception.
+* Asuna insists Kirito rest—he complies, **believing she is studying memory restoration**.
+* As soon as Kirito lies down, **Asuna and Inoda initiate sexual activity** in the same room, under the guise of “memory reenactment.”
+
+---
+
+### 🌀 **Power Dynamics & Consent**
+
+* Inoda pressures Asuna emotionally and physically:
+
+  * "Just once, for memory reconstruction."
+  * Threatens memory restoration failure and waking Kirito if she resists.
+* Asuna agrees, telling herself it's just “for Yui’s sake,” but **her internal monologue shows rising arousal and helplessness**.
+
+---
+
+### 🔞 **Sexual Acts & Escalation**
+
+* The scandal includes:
+
+  * **Oral sex** performed by Asuna on Inoda, while Kirito sleeps meters away.
+  * Inoda **humiliates Kirito** mid-act: "Your wife is sucking me off next to you!"
+  * Multiple positions are used, including **cowgirl**, **doggystyle**, and **deep kissing**.
+* Inoda mocks Kirito's past failures in bed, reinforcing dominance: “Three-second softie!”
+* Asuna is made to say humiliating things:
+
+  * “Only Inoda-kun can satisfy me.”
+  * “Kirito and I never had love, only duty.”
+  * “I’m your secret wife.”
+
+---
+
+### 💬 **Psychological Collapse of Asuna**
+
+* Asuna attempts to **rationalize her submission**:
+
+  * “This is just for memory recall…”
+  * “I’m only playing along to keep him calm.”
+* But by the end, her inner voice echoes full collapse:
+
+  * “I can’t stop… I don’t want to stop.”
+  * “This is submission… not love… but I crave it.”
+* She repeats several times that she loves Inoda the most and declares loyalty:
+
+  * “My body, heart, and soul belong to my husband—Inoda.”
+
+---
+
+### 📉 **Kirito's Perspective**
+
+* Kirito **briefly awakens** during the scene, misinterpreting what he hears and sees as part of a **"memory playback event."**
+* Asuna plays along, quickly shifting tone and guiding Kirito back into ignorance.
+* Kirito, confused but trusting, accepts the situation and returns to sleep.
+
+---
+
+### 📈 **Key Degradation Markers**
+
+* **Status change flags** are triggered in-engine:
+
+  * `Corruption = 999`
+  * `Obscenity = 999+`
+  * `Kirito WL (Will Level) = 650`
+* Symbolizes the **point of no return** in Asuna's transformation into Inoda’s submissive partner.
+
+---
+
+### 👨‍👩‍👧 **Family & Pregnancy Themes**
+
+* Inoda discusses pregnancy mid-act:
+
+  * “Let’s give Yui a little sister.”
+  * Asuna eagerly agrees: “I’ll give birth to as many as you want.”
+* This echoes the **"Cyber Conception"** perk from the plugin files and completes the **fetishized family corruption arc.**
+
+---
+
+### 🔚 **Final Lines & Future Implication**
+
+* Inoda: “Every week, you’ll sneak away from Kirito and be my sex toy.”
+* Asuna: “Every week… I love you the most… let’s be together forever.”
+
+---
+
+## 🧠 Narrative and Genre Analysis
+
+| Element                       | Function                                                                 |
+| ----------------------------- | ------------------------------------------------------------------------ |
+| **Proximity Betrayal**        | Heightens NTR impact by placing Inoda and Asuna’s act beside Kirito.     |
+| **Psychological Gaslighting** | Asuna convinces herself it’s just a simulation or duty.                  |
+| **Misattribution of Arousal** | Explicitly invoked by Inoda to undermine Asuna’s love for Kirito.        |
+| **Desire vs Duty Conflict**   | Asuna uses “Yui’s restoration” as a shield for her submission.           |
+| **Submission Loop**           | The more Asuna degrades herself, the more she becomes attached to Inoda. |
+
+Yui: \fn[OFont] RELATIONSHIP DATA UPDATED: \fn[OFont]
+Yui: \fn[OFont] "INODA" REGISTERED AS \fn[OFont]
+Yui: \fn[OFont] ("SECRET LOVER" & "YUI’S FATHER") \fn[OFont]
+Yui: \fn[OFont] FOR USER "ASUNA" IN SAO LOGS\fn[OFont]
+
 

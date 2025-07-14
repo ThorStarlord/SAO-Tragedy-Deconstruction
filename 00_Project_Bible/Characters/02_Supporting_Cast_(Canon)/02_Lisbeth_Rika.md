@@ -341,6 +341,36 @@ In summary: **Lisbeth does give an item to Inoda**, but it's disguised as a gift
 
 Of course. Here is a detailed SFW (Safe For Work) chronological timeline of Lisbeth's scenes from Part 2, presented in inverse order as requested.
 
+Yes, based on a detailed analysis of the provided game files, **Lisbeth does give an item to Inoda.**
+
+The transaction is indirect and part of her manipulative plan. Here is the complete breakdown of the information:
+
+### The Item
+*   **What it is:** A piece of equipment, specifically a **bracer**.
+*   **Stated Purpose:** To help Inoda during quests by boosting his ridiculously low stats.
+*   **True Purpose:** The bracer is secretly enchanted with a **"subordination contract."** This allows Lisbeth, who has higher stats, to completely dominate and control Inoda in the game. It is a tool for her to force his compliance and use him as a pawn.
+
+### How the Item was Transferred
+
+The transfer happens in two stages:
+
+1.  **Lizbeth gives the bracer to Asuna:** In **Map377, Event 1**, Lisbeth gives the bracer to Asuna, telling her it's to help Inoda. She uses the excuse that Inoda would be "too polite" to accept it directly from her and that he listens to Asuna more.
+    > **Lisbeth:** "You know how Inoda’s innate skill stats are ridiculously low? I designed this equipment specifically for him so we can complete the quests smoothly. Make sure he equips it tomorrow, okay?"
+    > **Asuna:** "Why don’t you give it to him yourself?"
+    > **Lisbeth:** "I was going to, but I’m worried he’ll be too polite with me. He listens to you better, so I’m counting on you."
+
+2.  **Asuna gives the bracer to Inoda:** Later, in **Map364, Event 1**, Asuna gives the bracer to Inoda, who equips it immediately.
+    > **Inoda:** "This bracer? I equipped it as soon as Senpai gave it to me! The stats are pretty great!"
+    > **Asuna:** "Inoda-kun, that gear was specially made by Liz, I’m just passing it along."
+
+### Lisbeth's Confirmation of Providing "Props"
+
+In a later scene (**Map382, Event 6**), Lisbeth explicitly confirms she has been providing Inoda with items to facilitate his actions against Asuna, further cementing her role as his enabler and manipulator.
+
+> **Lisbeth:** "The reason you've been so successful lately is all thanks to my props!"
+
+In summary, Lisbeth crafts a magically enchanted bracer designed to control Inoda and has Asuna deliver it to him under false pretenses.
+
 ---
 
 ### **SFW Inverse Chronological Timeline of Lisbeth's Scenes in Part 2**
@@ -388,4 +418,61 @@ This timeline details Lisbeth's key actions and motivations from June 27th back 
 *   **Event:** Lisbeth organizes a group camping trip and manipulates the drawing of lots for team assignments.
 *   **SFW Interaction:** She ensures that she is paired with Kirito, while Asuna is paired with Inoda. She presents this as a random, fun activity.
 *   **SFW Significance:** This is the foundational move of her plan for this entire arc. By separating the main couple and placing them with their respective manipulators, she creates the perfect isolated environments to execute her strategy of driving them apart.
+
+Here is a **reverse chronological NSFW timeline of Lisbeth scenes in Part 2** of *SAONTRONLINE*, based on all identified entries:
+
+---
+
+### 🔻 **NSFW Timeline – Lisbeth (Reverse Order)**
+
+#### **1. \[Massage Planning + Sexual Comments] – Event ID: 30**
+
+* Lisbeth discusses massages that can have real-world physiological effects.
+* Teasing banter with Kirito and Asuna includes lewd jokes about in-game sex affecting real bodies.
+* Asuna denies interest while Lisbeth provokes and mocks her reactions.
+* Inoda is mentioned as someone she wanted to thank (suggesting his proximity to future scenes).
+
+---
+
+#### **2. \[NSFW Lesbian Domination] – Event ID: 21**
+
+* Lisbeth dominates Asuna sexually in a lesbian scene.
+* She mocks and arouses Asuna, calling her a “perverted woman.”
+* Asuna eventually breaks down, sobbing and confessing her perversion.
+* Strong emphasis on emotional manipulation, humiliation, and softcore roleplay.
+
+---
+
+#### **3. \[Handjob Practice with Inoda] – Event ID: 3**
+
+* Inoda flatters Lisbeth, implying her technique is superior to Asuna’s.
+* Lisbeth contemplates using Inoda as “practice” for a handjob for Kirito.
+* She gives Inoda a reluctant handjob, complaining about how “disgusting” it is but still continuing.
+* Inoda praises her technique and mocks Asuna as inferior.
+* Scene shows early signs of Lisbeth being pulled into Inoda’s orbit through flattery and subtle humiliation dynamics.
+
+---
+
+#### **4. \[Lisbeth Teases Kirito (After Rescue)] – Event ID: 35**
+
+* After Kirito helps Lisbeth escape from a stuck situation, she jokes about repaying him with physical affection.
+* She invites him to touch her chest or butt, referencing how he already did during the incident.
+* Kirito is flustered; Lisbeth continues pushing boundaries.
+* No full sex, but sexually charged teasing and threat to tell Asuna.
+
+---
+
+#### **5. \[Selfie Teasing – Item/Event ID: 53]**
+
+* Kirito comments on a lewd selfie Lisbeth sent.
+* He says she looks cuter in real life, and compliments her body while still asserting Asuna is better.
+
+---
+
+### 🧩 Summary of NSFW Trajectory
+
+* **Start**: Innocent teasing and banter (Kirito teasing, selfie).
+* **Middle**: Escalates to humiliating domination of Asuna and experimenting with Inoda.
+* **Recent/End**: Full erotic roleplay with Asuna and philosophical justifications for sensual indulgence.
+
 

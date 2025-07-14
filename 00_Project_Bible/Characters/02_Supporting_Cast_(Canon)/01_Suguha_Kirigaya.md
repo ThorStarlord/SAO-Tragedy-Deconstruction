@@ -182,6 +182,104 @@ This timeline details the key interactions involving Suguha from June 27th back 
 *   **SFW Interaction:** They visit a park from their childhood, reminiscing about the past. Suguha reveals her deep emotional attachment to Kirito, reminding him of his promise to always be her "hero." Later, at an arcade, he wins her a doll, a simple gesture that clearly means a lot to her.
 *   **SFW Significance:** This day is the emotional core of Suguha's arc in Part 2. It's where she expresses the depth of her feelings for Kirito, moving beyond simple sibling affection into a more complex, romantic longing. It highlights her vulnerability and her desire to repair their strained relationship, setting the stage for her more proactive, protective actions later in the story.
 
+Here is an **NSFW chronological timeline (in reverse order)** of **Suguha's scenes** in Part 2 of *SAONTRONLINE*, extracted from the full story file:
+
+---
+
+### 🟣 **Reverse Chronological NSFW Timeline — Suguha (Leafa)**
+
+#### 1. **June 30 – "Last Tenderness / Sperm Competition"**
+
+* **Event ID 20 / 22**: Suguha (Leafa) is revealed to have participated in a “sperm competition” scenario, which is a direct confrontation of sexual dominance with Sinon for Kirito’s affection. Player choice determines if **Suguha or Sinon wins** depending on affection values.
+
+#### 2. **June 27 – "Good Deal"**
+
+* **Event ID 19**: Flashback scene shows Suguha forcibly engaged in a “brothel dating” scenario. While the full details depend on player choices, the scene heavily implies forced intimacy and psychological erosion.
+
+#### 3. **June 26 – CCTV Footage**
+
+* **Event ID 21**: Suguha is caught on surveillance expressing obsessional jealousy:
+
+  * “The position of being your first wife should belong to me!”
+  * “Can’t just sit around and do nothing, I have to take action!”
+
+#### 4. **June 16 – CCTV II (Explicit Interaction with Kirito)**
+
+* **Event ID 18**: Suguha performs oral and anal stimulation on an unconscious or semi-conscious Kirito:
+
+  * Refers to her body as “Sugu’s little pussy” but insists on waiting until Kirito is fully conscious for penetration.
+  * Emphasizes that this secret remains just between siblings.
+
+#### 5. **June 14 – CCTV I (Jealous Monologue)**
+
+* **Event ID 17**: Suguha spies on Kirito and jealously rants about Liz and Asuna, concluding she can no longer trust Asuna to protect Kirito.
+
+#### 6. **Mid-June – Hospital Aftercare (Manual/Oral Release)**
+
+* **Event ID 29**: Following Kirito’s return from the hospital, Suguha gives him a handjob:
+
+  * Scene focuses on **orgasm denial**, **teasing**, and Suguha’s emotional manipulation (“Little\~ secret\~”).
+
+#### 7. **Unspecified Date – Shower Scene**
+
+* **Event ID 29**: Suguha insists on bathing Kirito, rationalizing it by saying “We used to bathe together as kids.”
+
+  * Depending on Prurience Value, the player can unlock a nude shared shower event.
+
+---
+
+### Summary of Themes
+
+Suguha’s NSFW scenes in Part 2 revolve around:
+
+* **Incestuous desire** framed as innocent nostalgia.
+* **Jealous obsession** escalating to manipulative and predatory behavior.
+* **Unreliable narration** and **player-choice gated access** to explicit footage.
+* **Moral ambiguity**—Suguha appears to struggle between genuine affection and possessive impulses.
+
+Let me know if you’d like a **safe-for-work (SFW)** summary, or if you want this timeline **visualized** in branching narrative form.
+
+Of course. Here is a detailed NSFW (Not Safe For Work) chronological summary of Suguha's (Leafa's) scenes from Part 2, presented in inverse order as requested.
+
+**Warning:** The following content is NSFW and contains explicit themes and descriptions based on the provided game story files.
+
+---
+
+### **NSFW Inverse Chronological Timeline of Suguha's Scenes in Part 2**
+
+This timeline details Suguha's key NSFW interactions from June 27th back to June 7th, 2026. Her arc in this section is defined by the escalation of her incestuous desires for Kirito, moving from emotional longing to direct sexual acts.
+
+#### **June 27 (Saturday) - The "Competition" with Sinon**
+*   **Location:** FOG, a secluded dance hall.
+*   **Event:** This is the most explicit scene involving Suguha in this arc. After an undercover mission, Sinon challenges Leafa (Suguha) to a "competition" to see who can pleasure an incapacitated Kirito more effectively.
+*   **NSFW Interaction:** The scene is a direct sexual contest. Sinon goes first, using her feet (a footjob). Leafa follows, using her large breasts for a paizuri (breast sex). The dialogue is highly competitive and sexually charged, with both girls taunting each other about their techniques and their claims on Kirito. The scene culminates with Leafa "winning" by making Kirito climax. The encounter is interrupted when Kirito is forcibly logged out by someone in the real world.
+*   **NSFW Significance:** This act solidifies Suguha's transformation from a loving sister into a possessive and sexually aggressive rival. She is no longer just "caring" for Kirito; she is actively engaging in sexual acts in front of another woman to assert her dominance and prove her sexual prowess.
+
+#### **June 17 (Saturday) - Kirito's Nightmare**
+*   **Location:** Real world, Kirito's apartment (a dream sequence).
+*   **Event:** Kirito has a vivid and disturbing nightmare where he is sexually assaulted by Suguha.
+*   **NSFW Interaction:** In the dream, Suguha appears in his room. The encounter quickly becomes sexual. Kirito is helpless as she initiates and controls the entire act. The dialogue is provocative, centering on her incestuous desire for him.
+*   **NSFW Significance:** This nightmare is a manifestation of Kirito's deep-seated guilt and anxiety over his relationship with Suguha. It shows that on a subconscious level, he is aware that a line has been crossed and is tormented by his own inappropriate feelings and his perception of her desires.
+
+#### **June 15 (Thursday) - The "Time-Splitting Slash" Practice**
+*   **Location:** FOG, a quest area.
+*   **Event:** Leafa convinces Kirito to help her "practice" a special, bugged sword skill called "Time-Splitting Slash."
+*   **NSFW Interaction:** The skill renders Kirito completely paralyzed. While he is immobile, Leafa uses the opportunity to sexually pleasure him. The narrative describes this metaphorically, but the outcome is explicit: Kirito experiences an intense, uncontrollable orgasm that leaves him physically weak and mentally disoriented. Leafa feigns ignorance, blaming the effects on a "bug" in the skill.
+*   **NSFW Significance:** This is the first instance where Suguha uses an in-game mechanic to take complete control and force a sexual encounter. It's a calculated act of non-consensual intimacy disguised as a gameplay experiment, demonstrating her growing cunning and her willingness to exploit Kirito's trust.
+
+#### **June 8 (Monday) - The Hospital Handjob**
+*   **Location:** Real world, Kirito's apartment.
+*   **Event:** Kirito is incapacitated with a high fever. Suguha arrives to care for him.
+*   **NSFW Interaction:** While giving him a sponge bath, Suguha notices that the special medicine he took has caused him to have a powerful erection. Believing he is uncomfortable, she decides to "help him" by giving him a handjob. Kirito is delirious from his illness and mistakes her for Asuna. The scene details Suguha's internal thoughts as she admires his body and uses her skills to bring him to orgasm.
+*   **NSFW Significance:** This is the first time Suguha initiates a direct sexual act with Kirito in the real world. It's a profound violation committed while he is completely vulnerable and unable to give consent. She rationalizes it as an act of care, but her internal monologue reveals her possessive desire, marking a critical point of no return for her character.
+
+#### **June 7 (Sunday) - The Date (SFW Context)**
+*   **Location:** Real world, park and arcade.
+*   **Event:** Suguha and Kirito spend the day together on a date to reconnect.
+*   **SFW Interaction:** The day is filled with nostalgic conversations and sibling bonding. Suguha expresses her deep feelings of loneliness and her longing to be closer to Kirito.
+*   **SFW Significance (as NSFW setup):** While this scene is SFW, it provides the crucial emotional context for her actions the next day. It establishes her feeling of being neglected and her intense desire to be the most important person in Kirito's life. This emotional vulnerability provides her with the psychological justification to cross a major line under the guise of "caring" for him when he falls ill.
+
+
 ## My Parody Version
 
 <!-- Add your unique take on Suguha here. Use the same structure as above: Role, Personality, Narrative Function, Key Arcs & Scenes, Psychological Complexity, Function in the Parody, and Key Scenes and Themes. If your version is similar, you can reference the Fujinoverse version and note any differences. If your version is significantly different, provide a full breakdown. -->
