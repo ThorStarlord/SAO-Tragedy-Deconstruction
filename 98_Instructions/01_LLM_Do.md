@@ -10,6 +10,7 @@ Use this file to specify best practices, goals, and stylistic guidelines for the
 
 (Add more as needed for your project.)
 
+
 # Naming Conventions: What To Do
 
 - Always reference, maintain, and integrate the calendar system for narrative and gameplay consistency. Ensure all events, timelines, and character arcs align with the established calendar system. When adding or modifying scenes, update the calendar documentation as needed.
@@ -18,6 +19,7 @@ Use this file to specify best practices, goals, and stylistic guidelines for the
 - All folders and files must begin with a leading number prefix (e.g., 01_, 02_) to enforce strict ordering and clarity.
 - Use PascalCase or underscores after the number prefix for readability (e.g., 03_Route_A_Nuanced_Parody, 01_Core_Concept.md).
 - Never skip or duplicate numbers in the sequence; maintain continuous, logical ordering.
+- You may use 00 as a prefix for both files and folders, as long as the numbering is continuous and unique within its context (e.g., a folder named 00_Something and a file named 00_Something.md are both valid if not duplicated or skipped in their respective lists).
 - Use descriptive names after the number prefix that reflect the file or folder's content and purpose.
 - For scripts and dialogue, include the route and scene in the filename for clarity (e.g., 08_Scene_2F_01_Descent.md).
 - Each route folder must contain act folders (e.g., 01_Act_One), and each act folder must contain scene files (e.g., 01_Scene_1_Description.md), following these naming conventions.

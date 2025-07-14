@@ -2,7 +2,7 @@
 
 ## FujinoVerse Parody Version
 
-Here is a **compiled profile of all information related to Inoda** from the file `SAONTRONLINEPART2_FullGameStory.txt`, covering his **role, behaviors, relationships, manipulations, personality traits, and notable actions**. This is based on both explicit scenes and implied patterns of behavior.
+Here is a **compiled profile of all information related to Inoda** from the file `SAONTRONLINEPART2_FullGameStory.txt`, covering his **role, behaviors, relationships, manipulations, personality traits, and notable actions**. This is based on both explicit scenes and implied patterns of behavior. Non-canon SAO online character.
 
 ---
 

@@ -1,4 +1,4 @@
-## Route 0 Writing Progress
+## Route 0 Scripts Writing Progress
 
 ## Act 1
 - [x] Scene 1_01: School Introduction ✅

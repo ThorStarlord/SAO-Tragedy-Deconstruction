@@ -2,6 +2,111 @@
 
 ## Fujinoverse Parody Version
 
+### Suguha in Part 1
+
+Of course. After thoroughly searching and analyzing the provided game files, here is all the information about Suguha, also referred to as "Sugu."
+
+### **Character Information and Relationships**
+
+*   **Identity:** Suguha is Kirito's younger sister, and they live together. He considers her his most important family member and precious little sister.
+*   **Alias:** She is frequently called "Sugu" by Kirito and others.
+*   **Skills and Hobbies:** She has been practicing kendo for eight years, which makes Kirito confident in her ability to handle herself.
+*   **Personality:** She is depicted as having a "hot-tempered" and sometimes unreasonable personality, especially towards Kirito. However, Kirito also notes that she can be gentle and has moments where she seems to have matured. She is caring towards her friends and colleagues, such as Mr. Andrew, and is responsible with her work.
+*   **Employment:** She works part-time at a cafe owned by Andrew (Agil), where she is seen as a diligent employee.
+*   **Relationship with Kirito:** Their relationship is complex. Kirito sees her as a cherished sister, but Suguha harbors romantic feelings for him. In a moment of private reflection, she calls him "the first person I ever fell in love with." Kirito is mostly oblivious to these feelings. She often gets angry at him but still cares deeply, offering him food and support when he is down.
+*   **Relationship with Hebishima:** Suguha has an intense and immediate dislike for Hebishima, her new colleague at the cafe. She finds him frivolous, disgusting, and a scumbag. This hostility is a major point of conflict.
+*   **Relationship with Asuna:** Suguha and Asuna get along very well. Kirito notes that when they first met, they got along so well that he felt like an outsider. Asuna invited Suguha to play FOG with them.
+
+### **Key Events Involving Suguha**
+
+1.  **The Anonymous Chat Room:** While exploring the anonymous chat room, Kirito worries about what Suguha would think of the immoral content, stating she would be "beyond pissed."
+
+2.  **Introduction of Hebishima:** Suguha's new coworker at the cafe is Hebishima, a "playboy" from Kirito's school. Suguha is immediately hostile towards him, complaining that he is lazy and uses the restroom to avoid work.
+
+3.  **The Drug and Blackmail Plot:** Hebishima obtains
+
+Based on the text file provided, here is a comprehensive SFW summary of all information regarding Suguha (also referred to as Sugu).
+
+### Character & Relationships
+
+*   **Family:** Suguha is Kirito's younger sister, and they appear to live together initially, though Kirito later moves into his own apartment. She is very important to him, and he refers to her as his "precious little sister" whom he cherishes.
+*   **Relationship with Kirito:** Their relationship is complex. Kirito sees her as a core family member. Suguha, however, harbors deeper, unrequited romantic feelings for him, admitting to herself that he was the "first person I ever fell in love with." She gets angry and emotional around him, which Kirito often misinterprets as her just having a short temper. She expresses frustration that he doesn't understand people's feelings and sees him as a "big dummy," yet she also admires him deeply.
+*   **Relationship with Asuna:** Suguha and Asuna get along very well, to the point where Kirito feels like an outsider when they are together. Asuna also shows concern for Suguha, hoping she is doing well at the cafe.
+*   **Relationship with Hebishima:** Suguha has an immediate and intense dislike for Hebishima, a new employee at the cafe. She finds him frivolous, disgusting, and a scumbag, especially after witnessing his flirtatious behavior. She gets angry when he is lazy at work and uses a "disgusting appellation" to refer to her.
+*   **Relationship with Andrew:** She works for Andrew at his cafe and respects him. She knows his wife is ill and expresses hope for her recovery. She feels guilty when she misses work without informing him.
+
+### Personality & Activities
+
+*   **Personality:** Suguha is depicted as strong-willed, hot-tempered, and blunt. Kirito notes that she has been practicing kendo for eight years, making her physically capable. Despite her tough exterior, she is also caring, looking out for Andrew and showing a softer, more vulnerable side in her private thoughts about Kirito. She is not easily fooled by flattery and has a strong sense of right and wrong, as seen in her disgust for Hebishima's character.
+*   **Job:** She works part-time at Andrew's cafe, "Dicey Cafe," where she handles various tasks, including managing the warehouse and serving customers. She is a diligent worker, often having to pick up the slack for her lazy co-worker, Hebishima.
+*   **Hobbies:** Kendo is a significant part of her life, having practiced it for eight years. She also has club activities at her own school.
+
+### Key Events Involving Suguha
+
+*   **The Cafe and Hebishima:** A significant portion of her story revolves around her work at the cafe and her contentious relationship with the new employee, Hebishima. She is angered by his laziness and his attempts to flirt with her.
+*   **The "Injury" Incident:** Hebishima gets slightly injured while "protecting" her from a falling bag of coffee beans. Although Suguha downplays the incident, Hebishima uses it to gain sympathy and manipulate situations.
+*   **The Phone Call:** In a key scene, Suguha calls Kirito asking him to cover her shift at the cafe because she has an "important activity" at her club. During the call, her voice is unusually soft and she sounds distressed. Unbeknownst to Kirito, Hebishima is with her, coercing her into making the call.
+*   **Misunderstanding with Kirito:** Kirito runs into Suguha at a convenience store where she is buying something in a bag that she is very protective of. Kirito teases her about it, leading to a misunderstanding and causing her to get angry and call him an "idiot."
+*   **Declining to Play FOG:** Asuna invites Suguha to join them in the game "Fall of GOD," but Suguha declines, citing her responsibilities at the cafe and her kendo practice.
+
+Here is a summary of all information about **Suguha** from *SAONTRONLINEPART1\_FullGameStory.txt*:
+
+---
+
+### 🧑‍🦰 **Character Overview**
+
+Suguha is portrayed as Kirito’s younger sister with a strong sense of justice, a fiery temper, and a protective attitude toward others—especially female customers and herself. She practices kendo (with 8 years of experience), works part-time at a café owned by Andrew, and is increasingly entangled with the antagonist **Hebishima**, a flirtatious and manipulative senpai.
+
+---
+
+### 🧭 **Personality & Agency**
+
+* **Assertive and Morally Outspoken**: She despises flirtatious and insincere men, especially those who mistreat or deceive women.
+* **Temperamental but Principled**: She often erupts in anger at Hebishima but defends her boundaries clearly.
+* **Responsible**: She is dedicated to helping Mr. Andrew at the café and practices kendo in her spare time.
+* **Family-Oriented**: Despite her frustrations, she cares deeply for Kirito and supports him during emotional moments.
+
+---
+
+### 💼 **Role in the Plot**
+
+1. **Café Subplot**:
+
+   * Suguha works at a café with Hebishima, who often disrespects boundaries and attempts to flirt or blackmail her using compromising photos.
+   * Despite resenting him, she often tolerates his presence due to café obligations and Andrew’s personal circumstances.
+
+2. **Relationship with Hebishima**:
+
+   * Suguha begins as overtly hostile toward Hebishima, seeing him as a lazy womanizer.
+   * Over time, she’s manipulated into increasingly compromising situations, sometimes under duress or psychological pressure.
+   * Eventually, she’s drawn into NSFW scenarios with Hebishima, often against her better judgment or through coercion.
+
+3. **Brother-Sister Dynamic with Kirito**:
+
+   * Suguha provides emotional support to Kirito during his struggles with Asuna and Kyoko.
+   * She tries to hide the truth about her situation from Kirito to avoid burdening him.
+   * Their relationship is strained by misunderstandings and lack of transparency.
+
+---
+
+### 🎭 **Arc Summary**
+
+* **Beginning**: Strong, independent, and assertive; defends women against Hebishima’s behavior and calls out toxic masculinity.
+* **Middle**: Hebishima infiltrates her work and personal life, escalating tensions and inserting himself into vulnerable moments. Suguha resists but becomes entangled due to obligation, manipulation, and emotional isolation.
+* **Late Stage**: She begins to show signs of psychological exhaustion and manipulation-induced compliance. Her dignity and agency are eroded through Hebishima’s constant presence, social pressure, and coercion—though she still shows flickers of resistance.
+
+---
+
+### 🧩 **Themes**
+
+* **Corruption and Compromise**: Suguha’s arc explores how even morally strong individuals can be worn down by persistent manipulation and social cornering.
+* **Female Rage and Resistance**: Her arc retains tension through her emotional defiance, even as her autonomy becomes increasingly compromised.
+* **Dual Lives**: She lives a double life—supportive sister vs. manipulated coworker—making her arc both tragic and psychologically layered.
+
+---
+
+### Suguha in Part 2
+
 Of course. Based on a thorough search of `SAONTRONLINEPART2_FullGameStory.txt`, here is a comprehensive summary of all SFW (Safe For Work) information regarding Suguha Kirigaya (and her in-game persona, Leafa).
 
 ### 1. Character & Role
@@ -39,9 +144,10 @@ Suguha's relationship with Kirito is the most developed aspect of her character 
 *   **Hebishima:** There are events that link Suguha with the character Hebishima, particularly early in the story. The nature of these interactions is almost entirely NSFW, but it's clear they have a complicated history that involves sexual acts and manipulation.
 *   **Sinon:** She teams up with Sinon for quests and seems to have a "frenemy" dynamic with her, engaging in both "girl talk" and verbal sparring matches over Kirito.
 
+
 ## My Parody Version
 
-<!-- Add your unique take on Kyoko here. Use the same structure as above: Role, Personality, Narrative Function, Key Arcs & Scenes, Psychological Complexity, Function in the Parody, and Key Scenes and Themes. If your version is similar, you can reference the Fujinoverse version and note any differences. If your version is significantly different, provide a full breakdown. -->
+<!-- Add your unique take on Suguha here. Use the same structure as above: Role, Personality, Narrative Function, Key Arcs & Scenes, Psychological Complexity, Function in the Parody, and Key Scenes and Themes. If your version is similar, you can reference the Fujinoverse version and note any differences. If your version is significantly different, provide a full breakdown. -->
 
 ### Role
 
