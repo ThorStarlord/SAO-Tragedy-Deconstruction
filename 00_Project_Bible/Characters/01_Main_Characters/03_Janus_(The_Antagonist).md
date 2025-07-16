@@ -46,3 +46,19 @@ Janus’s class is the Incubus Warlock, a unique support/control archetype whose
 ---
 
 *   **Role in the Narrative:** He acts as a living mirror to Kirito's emotional and logical failures. He doesn't win by force, but by outmaneuvering the protagonist emotionally, making him a challenge to Asuna's ideals and Kirito's certainty.
+
+---
+
+## Primary Method of Manipulation: The Eroticism of Logic
+
+Janus's core strategy is not based on overt emotional appeals or physical dominance. He employs a highly sophisticated form of psychological seduction that targets his victim's intellect and rationality. This method has several key components:
+
+- **Intellectual Validation:** Janus begins by establishing himself as an intellectual peer. He validates the target's intelligence, engages them in complex discussions (philosophy, ethics, logic), and treats them as a rational equal. This builds a foundation of trust and respect, bypassing emotional defenses.
+
+- **Framing Betrayal as a Logical Imperative:** He systematically reframes transgressive acts not as moral failures, but as the most logical and "optimal" solutions to a given problem. Janus constructs complex, internally consistent (but emotionally manipulative) arguments that lead to a predetermined, compromising conclusion. His goal is to make the target feel that rejecting his conclusion would be an irrational act.
+
+- **Weaponizing the Target's Own Intellect:** Janus often "teaches" his target the very logical frameworks he intends to use against them. This forces the target to engage with his arguments on his terms. Their own intelligence becomes a tool for their own entrapment, as they can find no logical flaw in his twisted premises.
+
+- **Seduction through Intellectual Submission:** The "arousal" Janus generates in his target is not primarily physical. It is the thrill of intellectual intimacy and the heady feeling of being mentally outmaneuvered. The moment of "surrender" for his target is often not physical, but the moment they concede a logical point, admitting that his argument is unbeatable. This intellectual submission is treated as the most profound form of intimacy.
+
+> **LLM Instruction:** When writing scenes involving Janus's manipulation of an intelligent character like Asuna, prioritize dialogue that reflects this method. His arguments should be calm, well-reasoned, and appeal to her logic, not her pity. Her downfall should feel like a series of "logical" concessions that lead her down a path of emotional and moral ruin. Avoid having him use the same melodramatic or pity-based tactics as a less sophisticated manipulator like Inoda.
