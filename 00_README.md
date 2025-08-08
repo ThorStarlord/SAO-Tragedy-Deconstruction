@@ -156,3 +156,51 @@ Every route explores a different answer to the central question:
 | D     | Horror               | Oppressive | Asuna-only   | Identity Loss        |
 | E     | Thriller             | Cerebral   | Kirito-only  | Suspense & Discovery |
 | F     | Classical Tragedy    | Somber     | Omniscient   | Fatalism & Catharsis |
+
+
+### Core Emotion by Route
+
+**A – Psychological Drama:**
+	- Complex: Grief, empathy, regret, bittersweet nostalgia
+	- Basic: Sadness, love
+	The reader is meant to feel the slow ache of loss and the pain of missed connections, with emotional realism at the forefront.
+
+**B – Dark Comedy / Satire:**
+	- Complex: Irony, absurdity, schadenfreude, mockery
+	- Basic: Amusement, surprise, disgust
+	The experience is one of mocking laughter and disbelief, highlighting the ridiculousness of genre tropes and human folly.
+
+**C – Erotic Drama:**
+	- Complex: Desire, guilt, temptation, inner conflict
+	- Basic: Lust, fear, joy
+	The core emotion is temptation, with tension between longing and guilt, as physical and emotional needs collide.
+
+**D – Horror:**
+	- Complex: Dread, helplessness, existential terror, paranoia
+	- Basic: Fear, sadness
+	The player is meant to feel trapped and suffocated as Asuna’s sense of self unravels, amplifying existential horror and loss of control.
+
+**E – Thriller:**
+	- Complex: Anxiety, suspicion, determination, hope
+	- Basic: Fear, surprise
+	The route evokes a cerebral tension, keeping the reader on edge as Kirito uncovers unsettling truths and faces uncertainty.
+
+**F – Classical Tragedy:**
+	- Complex: Catharsis, solemnity, fatalism, poetic justice
+	- Basic: Sadness, anger
+	The emotion is a heavy sense of inevitability and poetic justice, culminating in a tragic but meaningful resolution.
+
+
+### Core Emotion by Route
+
+**A – Psychological Drama:** Grief and empathy. The reader is meant to feel the slow ache of loss and the pain of missed connections, with emotional realism at the forefront.
+
+**B – Dark Comedy / Satire:** Irony and absurdity. The experience is one of mocking laughter and disbelief, highlighting the ridiculousness of genre tropes and human folly.
+
+**C – Erotic Drama:** Desire and inner conflict. The core emotion is temptation, with tension between longing and guilt, as physical and emotional needs collide.
+
+**D – Horror:** Dread and helplessness. The player is meant to feel trapped and suffocated as Asuna’s sense of self unravels, amplifying existential horror and loss of control.
+
+**E – Thriller:** Anxiety and suspicion. The route evokes a cerebral tension, keeping the reader on edge as Kirito uncovers unsettling truths and faces uncertainty.
+
+**F – Classical Tragedy:** Catharsis and solemnity. The emotion is a heavy sense of inevitability and poetic justice, culminating in a tragic but meaningful resolution.
